@@ -16197,6 +16197,3209 @@
    "resumo": "Autor: Ivan Misner O ano novo é uma época que as pessoas fazem resoluções para fazerem mudanças positivas em suas vidas. No geral, as resoluções das pessoas cai por terra, e eu sei que somos culpados por acabar deixando uma resolução até o fim de janeiro.…",
    "capa": "capas/artigos/a-2549.webp",
    "data": "2016-01-04"
+  },
+  {
+   "id": "ac-p67",
+   "tipo": "academy",
+   "url": "https://www.bniglobalacademy.com/local/intellicart/view.php?page=trainingcatalog&id=67",
+   "titulo": "Programa de Sucesso do Membro (Official MSP)",
+   "autor": "BNI Academy",
+   "origem": "Programa",
+   "formato": "Programa",
+   "grupo": "comece",
+   "dur": "curso",
+   "min": 0,
+   "tags": [
+    "novos membros",
+    "MSP"
+   ],
+   "trilhas": [
+    "iniciante"
+   ],
+   "resumo": "",
+   "tituloNaCapa": false,
+   "capa": "capas/academy/p67.webp",
+   "capaProporcao": 1.683
+  },
+  {
+   "id": "ac-p48",
+   "tipo": "academy",
+   "url": "https://www.bniglobalacademy.com/local/intellicart/view.php?page=trainingcatalog&id=48",
+   "titulo": "Desenvolvendo Power Teams de Sucesso",
+   "autor": "BNI Academy",
+   "origem": "Programa · 4 cursos",
+   "formato": "Programa",
+   "grupo": "pratica",
+   "dur": "curso",
+   "min": 0,
+   "tags": [
+    "Power Team"
+   ],
+   "trilhas": [
+    "rentabilidade"
+   ],
+   "resumo": "",
+   "tituloNaCapa": false,
+   "capa": "capas/academy/p48.webp",
+   "capaProporcao": 1.683
+  },
+  {
+   "id": "ac-c6736",
+   "tipo": "academy",
+   "url": "https://www.bniglobalacademy.com/local/intellicart/course/view.php?id=6736",
+   "titulo": "Coordenador de Privacidade",
+   "autor": "BNI Academy",
+   "origem": "Curso no BNI Academy",
+   "formato": "Curso",
+   "grupo": "negocios",
+   "dur": "curso",
+   "min": 0,
+   "tags": [
+    "vendas",
+    "liderança",
+    "tempo",
+    "vida no grupo"
+   ],
+   "trilhas": [],
+   "resumo": "Treinamento do Coordenador de Privacidade BNI – Projeto Piloto BNI BrasilO treinamento tem como objetivo capacitar membros das equipes para atuar como Coordenadores de Privacidade - agentes de privacidade, promovendo a cultura de proteção de dados pessoais no contexto do BNI e alinhando as práticas das equipes aos princípios da LGPD.Você irá aprender, de forma prática e objetiva, como atuar como Coordenador de…",
+   "tituloNaCapa": false,
+   "capa": "capas/academy/c6736.webp",
+   "capaProporcao": 1.724
+  },
+  {
+   "id": "ac-c105",
+   "tipo": "academy",
+   "url": "https://www.bniglobalacademy.com/local/intellicart/course/view.php?id=105",
+   "titulo": "PSM Visão Geral do Cultivo",
+   "autor": "BNI Academy",
+   "origem": "Curso no BNI Academy",
+   "formato": "Curso",
+   "grupo": "comece",
+   "dur": "curso",
+   "min": 0,
+   "tags": [
+    "PSM",
+    "cultivo"
+   ],
+   "trilhas": [
+    "credibilidade"
+   ],
+   "resumo": "Este curso dará aos membros uma compreensão de por quê as esferas de contato são importantes e irão beneficiar o grupo e a si mesmos, entender como ganhar o Gold Club Member usando a abordagem de convite “Estamos entrevistando” e usar o processo GRIP. O treinamento se empenha para influenciar ou inspirar novos comportamentos nos membros que o concluem; garantindo assim o seu sucesso no BNI.",
+   "tituloNaCapa": false,
+   "capa": "capas/academy/c105.webp",
+   "capaProporcao": 1.684
+  },
+  {
+   "id": "ac-c119",
+   "tipo": "academy",
+   "url": "https://www.bniglobalacademy.com/local/intellicart/course/view.php?id=119",
+   "titulo": "PSM Apresentação Semanal",
+   "autor": "BNI Academy",
+   "origem": "Curso no BNI Academy",
+   "formato": "Curso",
+   "grupo": "comece",
+   "dur": "curso",
+   "min": 0,
+   "tags": [
+    "PSM",
+    "apresentação semanal"
+   ],
+   "trilhas": [
+    "iniciante",
+    "visibilidade"
+   ],
+   "resumo": "Este curso preparará os membros para apresentarem com sucesso suas apresentações semanais, dando-lhes uma compreensão da importância das apresentações semanais, ajudando-os a identificar os gatilhos para encontrar referências e permitirá que se preparem para sua próxima apresentação semanal no final da lição.",
+   "tituloNaCapa": false,
+   "capa": "capas/academy/c119.webp",
+   "capaProporcao": 1.684
+  },
+  {
+   "id": "ac-c114",
+   "tipo": "academy",
+   "url": "https://www.bniglobalacademy.com/local/intellicart/course/view.php?id=114",
+   "titulo": "PSM Geração de Referências",
+   "autor": "BNI Academy",
+   "origem": "Curso no BNI Academy",
+   "formato": "Curso",
+   "grupo": "comece",
+   "dur": "curso",
+   "min": 0,
+   "tags": [
+    "PSM",
+    "referências"
+   ],
+   "trilhas": [
+    "rentabilidade"
+   ],
+   "resumo": "Este curso ajudará a aumentar sua capacidade de diferenciar leads de referências, determinar quando é apropriado enviar a outro membro e discutir as melhores práticas que podem ajudá-lo a gerar envios mais bem direcionados. O treinamento se empenha para influenciar ou inspirar novos comportamentos nos membros que o concluem; garantindo assim o seu sucesso no BNI.",
+   "tituloNaCapa": false,
+   "capa": "capas/academy/c114.webp",
+   "capaProporcao": 1.684
+  },
+  {
+   "id": "ac-c131",
+   "tipo": "academy",
+   "url": "https://www.bniglobalacademy.com/local/intellicart/course/view.php?id=131",
+   "titulo": "PSM Apresentação Principal",
+   "autor": "BNI Academy",
+   "origem": "Curso no BNI Academy",
+   "formato": "Curso",
+   "grupo": "comece",
+   "dur": "curso",
+   "min": 0,
+   "tags": [
+    "PSM",
+    "apresentação principal"
+   ],
+   "trilhas": [
+    "visibilidade"
+   ],
+   "resumo": "Este curso ensinará a importância de sua apresentação principal, como se preparar nas semanas que antecedem a apresentação e os principais elementos e estratégias para uma apresentação eficaz. O treinamento se empenha para influenciar ou inspirar novos comportamentos nos membros que o concluem; garantindo assim o seu sucesso no BNI.",
+   "tituloNaCapa": false,
+   "capa": "capas/academy/c131.webp",
+   "capaProporcao": 1.684
+  },
+  {
+   "id": "ac-c95",
+   "tipo": "academy",
+   "url": "https://www.bniglobalacademy.com/local/intellicart/course/view.php?id=95",
+   "titulo": "PSM Definindo & Acompanhando Seus Objetivos no BNI",
+   "autor": "BNI Academy",
+   "origem": "Curso no BNI Academy",
+   "formato": "Curso",
+   "grupo": "comece",
+   "dur": "curso",
+   "min": 0,
+   "tags": [
+    "PSM",
+    "objetivos"
+   ],
+   "trilhas": [
+    "iniciante"
+   ],
+   "resumo": "Este curso dará aos membros uma compreensão de como definir seus objetivos, o que eles precisam dar para conseguir o que desejam e como inserir contribuições importantes no aplicativo. O treinamento se empenha para influenciar ou inspirar novos comportamentos nos membros que o concluem; garantindo assim o seu sucesso no BNI.",
+   "tituloNaCapa": false,
+   "capa": "capas/academy/c95.webp",
+   "capaProporcao": 1.684
+  },
+  {
+   "id": "ac-c144",
+   "tipo": "academy",
+   "url": "https://www.bniglobalacademy.com/local/intellicart/course/view.php?id=144",
+   "titulo": "PSM Conquistar a Confiança",
+   "autor": "BNI Academy",
+   "origem": "Curso no BNI Academy",
+   "formato": "Curso",
+   "grupo": "comece",
+   "dur": "curso",
+   "min": 0,
+   "tags": [
+    "PSM",
+    "confiança"
+   ],
+   "trilhas": [
+    "credibilidade"
+   ],
+   "resumo": "Este curso preparará os membros para compreender a importância de conquistar confiança e agregar valor aos seus relacionamentos com os membros. Além disso, os alunos aprenderão a usar visibilidade, credibilidade e rentabilidade para construir sua rede e aprender os 13 comportamentos para conquistar a confiança.",
+   "tituloNaCapa": false,
+   "capa": "capas/academy/c144.webp",
+   "capaProporcao": 1.684
+  },
+  {
+   "id": "ac-p162",
+   "tipo": "academy",
+   "url": "https://www.bniglobalacademy.com/local/intellicart/view.php?page=trainingcatalog&id=162",
+   "titulo": "Desenvolvimento de Liderança - Série Inteira (total de 8 Cursos) (Português)",
+   "autor": "BNI Academy",
+   "origem": "Programa · 8 cursos",
+   "formato": "Programa",
+   "grupo": "lideranca",
+   "dur": "curso",
+   "min": 0,
+   "tags": [
+    "liderança"
+   ],
+   "trilhas": [],
+   "resumo": "",
+   "tituloNaCapa": false,
+   "capa": "capas/academy/p162.webp",
+   "capaProporcao": 1.683
+  },
+  {
+   "id": "ac-p311",
+   "tipo": "academy",
+   "url": "https://www.bniglobalacademy.com/local/intellicart/view.php?page=trainingcatalog&id=311",
+   "titulo": "Equipe de Liderança: Comitê de Afiliação",
+   "autor": "BNI Academy",
+   "origem": "Programa · 5 cursos",
+   "formato": "Programa",
+   "grupo": "lideranca",
+   "dur": "curso",
+   "min": 0,
+   "tags": [
+    "liderança"
+   ],
+   "trilhas": [],
+   "resumo": "",
+   "tituloNaCapa": false,
+   "capa": "capas/academy/p311.webp",
+   "capaProporcao": 1.683
+  },
+  {
+   "id": "ac-p293",
+   "tipo": "academy",
+   "url": "https://www.bniglobalacademy.com/local/intellicart/view.php?page=trainingcatalog&id=293",
+   "titulo": "Equipe de Liderança: Coordenador de Mentoria",
+   "autor": "BNI Academy",
+   "origem": "Programa · 3 cursos",
+   "formato": "Programa",
+   "grupo": "lideranca",
+   "dur": "curso",
+   "min": 0,
+   "tags": [
+    "liderança"
+   ],
+   "trilhas": [],
+   "resumo": "",
+   "tituloNaCapa": false,
+   "capa": "capas/academy/p293.webp",
+   "capaProporcao": 1.683
+  },
+  {
+   "id": "ac-p314",
+   "tipo": "academy",
+   "url": "https://www.bniglobalacademy.com/local/intellicart/view.php?page=trainingcatalog&id=314",
+   "titulo": "Equipe de Liderança: Comitê de Afiliação - Candidaturas",
+   "autor": "BNI Academy",
+   "origem": "Programa · 3 cursos",
+   "formato": "Programa",
+   "grupo": "lideranca",
+   "dur": "curso",
+   "min": 0,
+   "tags": [
+    "liderança"
+   ],
+   "trilhas": [],
+   "resumo": "",
+   "tituloNaCapa": false,
+   "capa": "capas/academy/p314.webp",
+   "capaProporcao": 1.683
+  },
+  {
+   "id": "ac-p316",
+   "tipo": "academy",
+   "url": "https://www.bniglobalacademy.com/local/intellicart/view.php?page=trainingcatalog&id=316",
+   "titulo": "Equipe de Liderança: Transição",
+   "autor": "BNI Academy",
+   "origem": "Programa · 2 cursos",
+   "formato": "Programa",
+   "grupo": "lideranca",
+   "dur": "curso",
+   "min": 0,
+   "tags": [
+    "liderança"
+   ],
+   "trilhas": [],
+   "resumo": "",
+   "tituloNaCapa": false,
+   "capa": "capas/academy/p316.webp",
+   "capaProporcao": 1.683
+  },
+  {
+   "id": "ac-p317",
+   "tipo": "academy",
+   "url": "https://www.bniglobalacademy.com/local/intellicart/view.php?page=trainingcatalog&id=317",
+   "titulo": "Equipe de Liderança: Anfitrião de Convidado",
+   "autor": "BNI Academy",
+   "origem": "Programa · 5 cursos",
+   "formato": "Programa",
+   "grupo": "lideranca",
+   "dur": "curso",
+   "min": 0,
+   "tags": [
+    "convidados",
+    "liderança"
+   ],
+   "trilhas": [],
+   "resumo": "",
+   "tituloNaCapa": false,
+   "capa": "capas/academy/p317.webp",
+   "capaProporcao": 1.683
+  },
+  {
+   "id": "ac-p320",
+   "tipo": "academy",
+   "url": "https://www.bniglobalacademy.com/local/intellicart/view.php?page=trainingcatalog&id=320",
+   "titulo": "Equipe de Liderança: Coordenador de Educação",
+   "autor": "BNI Academy",
+   "origem": "Programa · 2 cursos",
+   "formato": "Programa",
+   "grupo": "lideranca",
+   "dur": "curso",
+   "min": 0,
+   "tags": [
+    "liderança"
+   ],
+   "trilhas": [],
+   "resumo": "",
+   "tituloNaCapa": false,
+   "capa": "capas/academy/p320.webp",
+   "capaProporcao": 1.683
+  },
+  {
+   "id": "ac-p312",
+   "tipo": "academy",
+   "url": "https://www.bniglobalacademy.com/local/intellicart/view.php?page=trainingcatalog&id=312",
+   "titulo": "Equipe de Liderança: Comitê de Afiliação - Performance",
+   "autor": "BNI Academy",
+   "origem": "Programa · 5 cursos",
+   "formato": "Programa",
+   "grupo": "lideranca",
+   "dur": "curso",
+   "min": 0,
+   "tags": [
+    "liderança"
+   ],
+   "trilhas": [],
+   "resumo": "",
+   "tituloNaCapa": false,
+   "capa": "capas/academy/p312.webp",
+   "capaProporcao": 1.683
+  },
+  {
+   "id": "ac-p321",
+   "tipo": "academy",
+   "url": "https://www.bniglobalacademy.com/local/intellicart/view.php?page=trainingcatalog&id=321",
+   "titulo": "Equipe de Liderança: Básico da Liderança BNI",
+   "autor": "BNI Academy",
+   "origem": "Programa · 8 cursos",
+   "formato": "Programa",
+   "grupo": "lideranca",
+   "dur": "curso",
+   "min": 0,
+   "tags": [
+    "liderança"
+   ],
+   "trilhas": [],
+   "resumo": "",
+   "tituloNaCapa": false,
+   "capa": "capas/academy/p321.webp",
+   "capaProporcao": 1.683
+  },
+  {
+   "id": "ac-p353",
+   "tipo": "academy",
+   "url": "https://www.bniglobalacademy.com/local/intellicart/view.php?page=trainingcatalog&id=353",
+   "titulo": "Fórmula Completa para o Sucesso do Membro (PSM Versão Estendida)",
+   "autor": "BNI Academy",
+   "origem": "Programa · 16 cursos",
+   "formato": "Programa",
+   "grupo": "comece",
+   "dur": "curso",
+   "min": 0,
+   "tags": [
+    "PSM"
+   ],
+   "trilhas": [
+    "iniciante"
+   ],
+   "resumo": "",
+   "tituloNaCapa": false,
+   "capa": "capas/academy/p353.webp",
+   "capaProporcao": 1.683
+  },
+  {
+   "id": "ac-p322",
+   "tipo": "academy",
+   "url": "https://www.bniglobalacademy.com/local/intellicart/view.php?page=trainingcatalog&id=322",
+   "titulo": "Missão, Visão & Objetivos do Grupo - Treinamento On-line",
+   "autor": "BNI Academy",
+   "origem": "Programa · 2 cursos",
+   "formato": "Programa",
+   "grupo": "lideranca",
+   "dur": "curso",
+   "min": 0,
+   "tags": [
+    "vida no grupo",
+    "propósito"
+   ],
+   "trilhas": [],
+   "resumo": "",
+   "tituloNaCapa": false,
+   "capa": "capas/academy/p322.webp",
+   "capaProporcao": 1.683
+  },
+  {
+   "id": "ac-c471",
+   "tipo": "academy",
+   "url": "https://www.bniglobalacademy.com/local/intellicart/course/view.php?id=471",
+   "titulo": "Organizando o seu Power Team",
+   "autor": "BNI Academy",
+   "origem": "Curso no BNI Academy",
+   "formato": "Curso",
+   "grupo": "pratica",
+   "dur": "curso",
+   "min": 0,
+   "tags": [
+    "Power Team"
+   ],
+   "trilhas": [
+    "rentabilidade"
+   ],
+   "resumo": "",
+   "tituloNaCapa": false,
+   "capa": "capas/academy/c471.webp",
+   "capaProporcao": 1.684
+  },
+  {
+   "id": "ac-c470",
+   "tipo": "academy",
+   "url": "https://www.bniglobalacademy.com/local/intellicart/course/view.php?id=470",
+   "titulo": "Maximizando o seu Power Team",
+   "autor": "BNI Academy",
+   "origem": "Curso no BNI Academy",
+   "formato": "Curso",
+   "grupo": "pratica",
+   "dur": "curso",
+   "min": 0,
+   "tags": [
+    "Power Team"
+   ],
+   "trilhas": [
+    "rentabilidade"
+   ],
+   "resumo": "",
+   "tituloNaCapa": false,
+   "capa": "capas/academy/c470.webp",
+   "capaProporcao": 1.684
+  },
+  {
+   "id": "ac-c473",
+   "tipo": "academy",
+   "url": "https://www.bniglobalacademy.com/local/intellicart/course/view.php?id=473",
+   "titulo": "Construindo o seu Power Team",
+   "autor": "BNI Academy",
+   "origem": "Curso no BNI Academy",
+   "formato": "Curso",
+   "grupo": "pratica",
+   "dur": "curso",
+   "min": 0,
+   "tags": [
+    "Power Team"
+   ],
+   "trilhas": [
+    "rentabilidade"
+   ],
+   "resumo": "",
+   "tituloNaCapa": false,
+   "capa": "capas/academy/c473.webp",
+   "capaProporcao": 1.684
+  },
+  {
+   "id": "ac-c637",
+   "tipo": "academy",
+   "url": "https://www.bniglobalacademy.com/local/intellicart/course/view.php?id=637",
+   "titulo": "Conferência BNI 2025",
+   "autor": "BNI Academy",
+   "origem": "Curso no BNI Academy",
+   "formato": "Curso",
+   "grupo": "palestras",
+   "dur": "curso",
+   "min": 0,
+   "tags": [
+    "comunicação",
+    "Givers Gain",
+    "liderança",
+    "vida no grupo"
+   ],
+   "trilhas": [],
+   "resumo": "A Conferência BNI 2025 é um evento anual que reúne Membros, Diretores, Diretores Consultores e líderes do BNI para celebrar conquistas, trocar experiências e impulsionar o crescimento dos negócios por meio do networking estruturado.",
+   "tituloNaCapa": true,
+   "capa": "capas/academy/c637.webp",
+   "capaProporcao": 1.684
+  },
+  {
+   "id": "ac-p313",
+   "tipo": "academy",
+   "url": "https://www.bniglobalacademy.com/local/intellicart/view.php?page=trainingcatalog&id=313",
+   "titulo": "Equipe de Liderança: Comitê de Afiliação - Conflitos",
+   "autor": "BNI Academy",
+   "origem": "Programa · 5 cursos",
+   "formato": "Programa",
+   "grupo": "lideranca",
+   "dur": "curso",
+   "min": 0,
+   "tags": [
+    "liderança"
+   ],
+   "trilhas": [],
+   "resumo": "",
+   "tituloNaCapa": false,
+   "capa": "capas/academy/p313.webp",
+   "capaProporcao": 1.683
+  },
+  {
+   "id": "ac-c472",
+   "tipo": "academy",
+   "url": "https://www.bniglobalacademy.com/local/intellicart/course/view.php?id=472",
+   "titulo": "Construir Relacionamentos Poderosos",
+   "autor": "BNI Academy",
+   "origem": "Curso no BNI Academy",
+   "formato": "Curso",
+   "grupo": "pratica",
+   "dur": "curso",
+   "min": 0,
+   "tags": [
+    "Power Team",
+    "relacionamento"
+   ],
+   "trilhas": [
+    "credibilidade",
+    "rentabilidade"
+   ],
+   "resumo": "",
+   "tituloNaCapa": false,
+   "capa": "capas/academy/c472.webp",
+   "capaProporcao": 1.684
+  },
+  {
+   "id": "ac-c713",
+   "tipo": "academy",
+   "url": "https://www.bniglobalacademy.com/local/intellicart/course/view.php?id=713",
+   "titulo": "BNI Connect Mobile - Impulsionar Seus Negocios",
+   "autor": "BNI Academy",
+   "origem": "Curso no BNI Academy",
+   "formato": "Curso",
+   "grupo": "comece",
+   "dur": "curso",
+   "min": 0,
+   "tags": [
+    "BNI Connect"
+   ],
+   "trilhas": [
+    "iniciante"
+   ],
+   "resumo": "Leve o poder do BNI com você! O BNI Connect Mobile é o aplicativo essencial para membros do BNI que desejam maximizar suas conexões e impulsionar seus negócios de onde estiverem. Acesse informações cruciais sobre seus contatos, registre seus referências e \"1-a-1s\" de forma rápida e intuitiva, e mantenha-se engajado com sua rede.",
+   "tituloNaCapa": false,
+   "capa": "capas/academy/c713.webp",
+   "capaProporcao": 1.684
+  },
+  {
+   "id": "ac-c712",
+   "tipo": "academy",
+   "url": "https://www.bniglobalacademy.com/local/intellicart/course/view.php?id=712",
+   "titulo": "BNI Business Builder - Plataforma de Aprendizado Online do BNI",
+   "autor": "BNI Academy",
+   "origem": "Curso no BNI Academy",
+   "formato": "Curso",
+   "grupo": "comece",
+   "dur": "curso",
+   "min": 0,
+   "tags": [
+    "Business Builder"
+   ],
+   "trilhas": [
+    "iniciante"
+   ],
+   "resumo": "Desbloqueie seu potencial de networking e negócios! O BNI Business Builder é a sua plataforma de aprendizado online exclusiva, projetada para membros do BNI que buscam aprimorar suas habilidades e obter resultados ainda melhores.",
+   "tituloNaCapa": false,
+   "capa": "capas/academy/c712.webp",
+   "capaProporcao": 1.684
+  },
+  {
+   "id": "ac-c1666",
+   "tipo": "academy",
+   "url": "https://www.bniglobalacademy.com/local/intellicart/course/view.php?id=1666",
+   "titulo": "Treinamento de Referências",
+   "autor": "BNI Academy",
+   "origem": "Curso no BNI Academy",
+   "formato": "Curso",
+   "grupo": "pratica",
+   "dur": "curso",
+   "min": 0,
+   "tags": [
+    "referências"
+   ],
+   "trilhas": [
+    "rentabilidade"
+   ],
+   "resumo": "O que são, como passar e o que fazer ao receber?",
+   "tituloNaCapa": false,
+   "capa": "capas/academy/c1666.webp",
+   "capaProporcao": 1.684
+  },
+  {
+   "id": "ac-c1207",
+   "tipo": "academy",
+   "url": "https://www.bniglobalacademy.com/local/intellicart/course/view.php?id=1207",
+   "titulo": "LGPD - Segurança da Informação",
+   "autor": "BNI Academy",
+   "origem": "Curso no BNI Academy",
+   "formato": "Curso",
+   "grupo": "negocios",
+   "dur": "curso",
+   "min": 0,
+   "tags": [
+    "credibilidade"
+   ],
+   "trilhas": [],
+   "resumo": "A segurança da informação é importante, não apenas porque é um requisito exigido pela LGPD, mas também porque pode apoiar a boa governança de dados e ajudar a empresa a proteger seus segredos de negócio. O princípio da segurança vai além da forma como a empresa armazena ou transmite informações. Todos os aspectos do seu processamento de dados precisam estar cobertos, não apenas a segurança cibernética.",
+   "tituloNaCapa": false,
+   "capa": "capas/academy/c1207.webp",
+   "capaProporcao": 1.684
+  },
+  {
+   "id": "ac-c1667",
+   "tipo": "academy",
+   "url": "https://www.bniglobalacademy.com/local/intellicart/course/view.php?id=1667",
+   "titulo": "Treinamento de Power Team",
+   "autor": "BNI Academy",
+   "origem": "Curso no BNI Academy",
+   "formato": "Curso",
+   "grupo": "pratica",
+   "dur": "curso",
+   "min": 0,
+   "tags": [
+    "Power Team"
+   ],
+   "trilhas": [
+    "rentabilidade"
+   ],
+   "resumo": "",
+   "tituloNaCapa": false,
+   "capa": "capas/academy/c1667.webp",
+   "capaProporcao": 1.684
+  },
+  {
+   "id": "ac-c1665",
+   "tipo": "academy",
+   "url": "https://www.bniglobalacademy.com/local/intellicart/course/view.php?id=1665",
+   "titulo": "Treinamento de Semáforo",
+   "autor": "BNI Academy",
+   "origem": "Curso no BNI Academy",
+   "formato": "Curso",
+   "grupo": "pratica",
+   "dur": "curso",
+   "min": 0,
+   "tags": [
+    "semáforo"
+   ],
+   "trilhas": [
+    "iniciante"
+   ],
+   "resumo": "",
+   "tituloNaCapa": false,
+   "capa": "capas/academy/c1665.webp",
+   "capaProporcao": 1.684
+  },
+  {
+   "id": "ac-c1668",
+   "tipo": "academy",
+   "url": "https://www.bniglobalacademy.com/local/intellicart/course/view.php?id=1668",
+   "titulo": "Treinamento de Obrigado por Negócio Fechado e Pontos de Educação",
+   "autor": "BNI Academy",
+   "origem": "Curso no BNI Academy",
+   "formato": "Curso",
+   "grupo": "pratica",
+   "dur": "curso",
+   "min": 0,
+   "tags": [
+    "negócios fechados",
+    "UE"
+   ],
+   "trilhas": [
+    "rentabilidade"
+   ],
+   "resumo": "O que é e por quê registrar?",
+   "tituloNaCapa": false,
+   "capa": "capas/academy/c1668.webp",
+   "capaProporcao": 1.684
+  },
+  {
+   "id": "ac-c1670",
+   "tipo": "academy",
+   "url": "https://www.bniglobalacademy.com/local/intellicart/course/view.php?id=1670",
+   "titulo": "Treinamento de Apresentação Semanal / Principal",
+   "autor": "BNI Academy",
+   "origem": "Curso no BNI Academy",
+   "formato": "Curso",
+   "grupo": "pratica",
+   "dur": "curso",
+   "min": 0,
+   "tags": [
+    "apresentação semanal",
+    "apresentação principal"
+   ],
+   "trilhas": [
+    "visibilidade"
+   ],
+   "resumo": "Como aproveitar melhor a sua apresentação",
+   "tituloNaCapa": false,
+   "capa": "capas/academy/c1670.webp",
+   "capaProporcao": 1.684
+  },
+  {
+   "id": "ac-c837",
+   "tipo": "academy",
+   "url": "https://www.bniglobalacademy.com/local/intellicart/course/view.php?id=837",
+   "titulo": "Elementos fundamentais do sucesso do membro",
+   "autor": "BNI Academy",
+   "origem": "Curso no BNI Academy",
+   "formato": "Curso",
+   "grupo": "comece",
+   "dur": "curso",
+   "min": 0,
+   "tags": [
+    "novos membros"
+   ],
+   "trilhas": [
+    "iniciante"
+   ],
+   "resumo": "",
+   "tituloNaCapa": false,
+   "capa": "capas/academy/c837.webp",
+   "capaProporcao": 1.684
+  },
+  {
+   "id": "ac-c2222",
+   "tipo": "academy",
+   "url": "https://www.bniglobalacademy.com/local/intellicart/course/view.php?id=2222",
+   "titulo": "Livro: Givers Gain",
+   "autor": "BNI Academy",
+   "origem": "Curso no BNI Academy",
+   "formato": "Curso",
+   "grupo": "livros",
+   "dur": "curso",
+   "min": 0,
+   "tags": [
+    "Givers Gain",
+    "livro"
+   ],
+   "trilhas": [
+    "iniciante"
+   ],
+   "resumo": "BEM-VINDO AO BNI! NAS PÁGINAS QUE SE SEGUEM, você descobrirá a história da maior organização de redes de negócios do mundo e as histórias individuais de líderes empresariais apaixonados que têm um propósito muito maior na vida.",
+   "tituloNaCapa": true,
+   "capa": "capas/academy/c2222.webp",
+   "capaProporcao": 1.684
+  },
+  {
+   "id": "ac-c1858",
+   "tipo": "academy",
+   "url": "https://www.bniglobalacademy.com/local/intellicart/course/view.php?id=1858",
+   "titulo": "LGPD - Lei Geral de Proteção de Dados",
+   "autor": "BNI Academy",
+   "origem": "Curso no BNI Academy",
+   "formato": "Curso",
+   "grupo": "negocios",
+   "dur": "curso",
+   "min": 0,
+   "tags": [
+    "online"
+   ],
+   "trilhas": [],
+   "resumo": "A Lei Geral de Proteção de Dados Pessoais (LGPD), Lei n° 13.709/2018, foi promulgada para proteger os direitos fundamentais de liberdade e de privacidade e a livre formação da personalidade de cada indivíduo.",
+   "tituloNaCapa": true,
+   "capa": "capas/academy/c1858.webp",
+   "capaProporcao": 1.684
+  },
+  {
+   "id": "ac-c1669",
+   "tipo": "academy",
+   "url": "https://www.bniglobalacademy.com/local/intellicart/course/view.php?id=1669",
+   "titulo": "Treinamento de Convidados / Visitante",
+   "autor": "BNI Academy",
+   "origem": "Curso no BNI Academy",
+   "formato": "Curso",
+   "grupo": "pratica",
+   "dur": "curso",
+   "min": 0,
+   "tags": [
+    "convidados"
+   ],
+   "trilhas": [
+    "visibilidade"
+   ],
+   "resumo": "Por quê e como convidar?",
+   "tituloNaCapa": false,
+   "capa": "capas/academy/c1669.webp",
+   "capaProporcao": 1.684
+  },
+  {
+   "id": "ac-c2482",
+   "tipo": "academy",
+   "url": "https://www.bniglobalacademy.com/local/intellicart/course/view.php?id=2482",
+   "titulo": "Recrutamento e Seleção",
+   "autor": "BNI Academy",
+   "origem": "Curso no BNI Academy",
+   "formato": "Curso",
+   "grupo": "lideranca",
+   "dur": "curso",
+   "min": 0,
+   "tags": [
+    "vida no grupo"
+   ],
+   "trilhas": [],
+   "resumo": "Uma olhada nas informações mais recentes, dicas e técnicas para encontrar os candidatos certos, conduzir entrevistas eficazes e tomar boas decisões de contratação. Também existem ferramentas e sugestões úteis para evitar as armadilhas que levam a uma contratação ruim.",
+   "tituloNaCapa": false,
+   "capa": "capas/academy/c2482.webp",
+   "capaProporcao": 1.684
+  },
+  {
+   "id": "ac-c2481",
+   "tipo": "academy",
+   "url": "https://www.bniglobalacademy.com/local/intellicart/course/view.php?id=2481",
+   "titulo": "Gestão do Tempo",
+   "autor": "BNI Academy",
+   "origem": "Curso no BNI Academy",
+   "formato": "Curso",
+   "grupo": "lideranca",
+   "dur": "curso",
+   "min": 0,
+   "tags": [
+    "tempo"
+   ],
+   "trilhas": [],
+   "resumo": "As habilidades de gestão de tempo permitem que você realize mais em um período de tempo mais curto, o que leva a mais tempo livre, o que permite aproveitar as oportunidades de aprendizado, reduz o estresse e ajuda você a se concentrar e, por fim, leva a mais sucesso na carreira. Cada benefício da gestão de tempo melhora outro aspecto de sua vida.",
+   "tituloNaCapa": false,
+   "capa": "capas/academy/c2481.webp",
+   "capaProporcao": 1.684
+  },
+  {
+   "id": "ac-c2485",
+   "tipo": "academy",
+   "url": "https://www.bniglobalacademy.com/local/intellicart/course/view.php?id=2485",
+   "titulo": "Resolução Eficaz de Conflitos",
+   "autor": "BNI Academy",
+   "origem": "Curso no BNI Academy",
+   "formato": "Curso",
+   "grupo": "lideranca",
+   "dur": "curso",
+   "min": 0,
+   "tags": [
+    "networking"
+   ],
+   "trilhas": [],
+   "resumo": "Nesta série, exploramos a origem e o nível de conflito, estilos comuns de conflito e como tomar as medidas apropriadas quando confrontados com um conflito.",
+   "tituloNaCapa": false,
+   "capa": "capas/academy/c2485.webp",
+   "capaProporcao": 1
+  },
+  {
+   "id": "ac-c2483",
+   "tipo": "academy",
+   "url": "https://www.bniglobalacademy.com/local/intellicart/course/view.php?id=2483",
+   "titulo": "Gestão de Desempenho",
+   "autor": "BNI Academy",
+   "origem": "Curso no BNI Academy",
+   "formato": "Curso",
+   "grupo": "lideranca",
+   "dur": "curso",
+   "min": 0,
+   "tags": [
+    "credibilidade",
+    "comunicação",
+    "liderança",
+    "mentalidade"
+   ],
+   "trilhas": [],
+   "resumo": "Este é um tópico importante, que a maioria dos líderes não entende completamente. Esta série abrange os fundamentos da gestão de desempenho dos funcionários. Começamos com os pré-requisitos básicos e os requisitos básicos do gestão de desempenho, bem como técnicas específicas projetadas para melhorar o desempenho dos funcionários.",
+   "tituloNaCapa": false,
+   "capa": "capas/academy/c2483.webp",
+   "capaProporcao": 1.684
+  },
+  {
+   "id": "ac-c2486",
+   "tipo": "academy",
+   "url": "https://www.bniglobalacademy.com/local/intellicart/course/view.php?id=2486",
+   "titulo": "Sucesso no Serviço ao Cliente",
+   "autor": "BNI Academy",
+   "origem": "Curso no BNI Academy",
+   "formato": "Curso",
+   "grupo": "lideranca",
+   "dur": "curso",
+   "min": 0,
+   "tags": [
+    "vendas"
+   ],
+   "trilhas": [],
+   "resumo": "Fornecer um ótimo atendimento ao cliente é o que o diferencia da concorrência e cria a fidelidade do cliente. Objetivos: Explicar os fatores de sucesso do atendimento ao cliente Descrever como determinar se você está conseguindo fornecer um atendimento excepcional ao cliente",
+   "tituloNaCapa": false,
+   "capa": "capas/academy/c2486.webp",
+   "capaProporcao": 1
+  },
+  {
+   "id": "ac-c2484",
+   "tipo": "academy",
+   "url": "https://www.bniglobalacademy.com/local/intellicart/course/view.php?id=2484",
+   "titulo": "Dominando a Comunicação Entre Gerações",
+   "autor": "BNI Academy",
+   "origem": "Curso no BNI Academy",
+   "formato": "Curso",
+   "grupo": "lideranca",
+   "dur": "curso",
+   "min": 0,
+   "tags": [
+    "comunicação",
+    "mentalidade",
+    "vida no grupo",
+    "propósito"
+   ],
+   "trilhas": [],
+   "resumo": "Nesta série, exploramos como cada uma das quatro gerações pensa e age de forma diferente. Fornecemos uma visão completa de como cada geração se desenvolveu, bem como algumas dicas muito valiosas sobre como interagir com os membros de cada geração.",
+   "tituloNaCapa": false,
+   "capa": "capas/academy/c2484.webp",
+   "capaProporcao": 1.728
+  },
+  {
+   "id": "ac-c2488",
+   "tipo": "academy",
+   "url": "https://www.bniglobalacademy.com/local/intellicart/course/view.php?id=2488",
+   "titulo": "Construindo Rapport",
+   "autor": "BNI Academy",
+   "origem": "Curso no BNI Academy",
+   "formato": "Curso",
+   "grupo": "lideranca",
+   "dur": "curso",
+   "min": 0,
+   "tags": [
+    "vendas",
+    "credibilidade"
+   ],
+   "trilhas": [],
+   "resumo": "Construir Rapport é a chave para construir confiança com praticamente qualquer pessoa, tanto nas interações pessoais quanto profissionais. Também permite que você construa bons relacionamentos com os clientes, o que é outra chave para deixar os clientes felizes e mantê-los voltando para fazer negócios com você.",
+   "tituloNaCapa": false,
+   "capa": "capas/academy/c2488.webp",
+   "capaProporcao": 1.684
+  },
+  {
+   "id": "ac-c2898",
+   "tipo": "academy",
+   "url": "https://www.bniglobalacademy.com/local/intellicart/course/view.php?id=2898",
+   "titulo": "Palestra - Marcos R. Martins - Abertura da Conferência Nacional",
+   "autor": "BNI Academy",
+   "origem": "Curso no BNI Academy",
+   "formato": "Curso",
+   "grupo": "palestras",
+   "dur": "curso",
+   "min": 0,
+   "tags": [
+    "Power Team",
+    "vida no grupo"
+   ],
+   "trilhas": [],
+   "resumo": "Marcos R. Martins fará a abertura da Conferência Nacional do BNI Brasil 2021, e também falará sobre a importância dos Power Teams dentro dos Grupos BNI.",
+   "tituloNaCapa": true,
+   "capa": "capas/academy/c2898.webp",
+   "capaProporcao": 1.684
+  },
+  {
+   "id": "ac-c2899",
+   "tipo": "academy",
+   "url": "https://www.bniglobalacademy.com/local/intellicart/course/view.php?id=2899",
+   "titulo": "Webinario - Daniel Marcos",
+   "autor": "BNI Academy",
+   "origem": "Curso no BNI Academy",
+   "formato": "Curso",
+   "grupo": "palestras",
+   "dur": "curso",
+   "min": 0,
+   "tags": [
+    "networking"
+   ],
+   "trilhas": [],
+   "resumo": "O Manual do CEO para escalar você, sua equipe e sua empresa para o próximo nível",
+   "tituloNaCapa": true,
+   "capa": "capas/academy/c2899.webp",
+   "capaProporcao": 1.684
+  },
+  {
+   "id": "ac-c2900",
+   "tipo": "academy",
+   "url": "https://www.bniglobalacademy.com/local/intellicart/course/view.php?id=2900",
+   "titulo": "Se transforme em um líder com base na estratégia Que sua empresa e o tempo exigem",
+   "autor": "Nicolas Hauff - Os 3 Desafios",
+   "origem": "Curso no BNI Academy",
+   "formato": "Curso",
+   "grupo": "palestras",
+   "dur": "curso",
+   "min": 0,
+   "tags": [
+    "liderança",
+    "tempo",
+    "propósito"
+   ],
+   "trilhas": [],
+   "resumo": "Cresça antes que seu negócio seja grande! Trabalhar muito não é mais suficiente para construir uma empresa de sucesso. É hora de se aplicar e aumentar seu nível como líder antes que seja tarde demais. O modelo dos Três Desafios lhe ensinará as etapas para se compreender, gerar clareza sobre o negócio em que você está e definir a direção a seguir.",
+   "tituloNaCapa": true,
+   "capa": "capas/academy/c2900.webp",
+   "capaProporcao": 1.684
+  },
+  {
+   "id": "ac-c2979",
+   "tipo": "academy",
+   "url": "https://www.bniglobalacademy.com/local/intellicart/course/view.php?id=2979",
+   "titulo": "Do Operacional ao Estratégico por meio do BNI",
+   "autor": "Reinaldo Luckman",
+   "origem": "Curso no BNI Academy",
+   "formato": "Curso",
+   "grupo": "palestras",
+   "dur": "curso",
+   "min": 0,
+   "tags": [
+    "liderança"
+   ],
+   "trilhas": [],
+   "resumo": "Sabe quando você trabalha o dia todo e, chegando ao seu final, tem a sensação que não fez nada? Essa breakout session tem como objetivo fazer com que você nunca mais se sinta dessa maneira novamente. Por meio de reflexões, técnicas práticas e os valores do BNI, você aprenderá como acelerar a sua jornada ao estratégico (que é sua função como líder), evitando cada vez mais o chamado \"atropelamento operacional\".",
+   "tituloNaCapa": true,
+   "capa": "capas/academy/c2979.webp",
+   "capaProporcao": 1.684
+  },
+  {
+   "id": "ac-c2489",
+   "tipo": "academy",
+   "url": "https://www.bniglobalacademy.com/local/intellicart/course/view.php?id=2489",
+   "titulo": "Coaching",
+   "autor": "BNI Academy",
+   "origem": "Curso no BNI Academy",
+   "formato": "Curso",
+   "grupo": "lideranca",
+   "dur": "curso",
+   "min": 0,
+   "tags": [
+    "networking"
+   ],
+   "trilhas": [],
+   "resumo": "O coaching é muitas vezes incompreendido. É uma arte e uma ciência, e requer a construção de habilidades. Devemos saber quando e como o coaching deve ser feito, bem como as armadilhas a serem evitadas.",
+   "tituloNaCapa": false,
+   "capa": "capas/academy/c2489.webp",
+   "capaProporcao": 1.684
+  },
+  {
+   "id": "ac-c2981",
+   "tipo": "academy",
+   "url": "https://www.bniglobalacademy.com/local/intellicart/course/view.php?id=2981",
+   "titulo": "BYG – Before You Grow – Tudo que você precisa saber para crescer",
+   "autor": "Rodrigo De Bernardi",
+   "origem": "Curso no BNI Academy",
+   "formato": "Curso",
+   "grupo": "palestras",
+   "dur": "curso",
+   "min": 0,
+   "tags": [
+    "networking"
+   ],
+   "trilhas": [],
+   "resumo": "Crescer é um desafio; crescer é uma necessidade; crescer é uma estratégia. Você está preparado para isso? Descubra onde colocar a sua energia para crescer a sua empresa.",
+   "tituloNaCapa": true,
+   "capa": "capas/academy/c2981.webp",
+   "capaProporcao": 1.684
+  },
+  {
+   "id": "ac-c2982",
+   "tipo": "academy",
+   "url": "https://www.bniglobalacademy.com/local/intellicart/course/view.php?id=2982",
+   "titulo": "Insights sobre o Livro ENTRE-Preneur-Ship (Empreendedores Parte 1: O Início",
+   "autor": "Paulo Corsi",
+   "origem": "Curso no BNI Academy",
+   "formato": "Curso",
+   "grupo": "palestras",
+   "dur": "curso",
+   "min": 0,
+   "tags": [
+    "networking"
+   ],
+   "trilhas": [],
+   "resumo": "10 jornadas inspiradoras ao empreendedorismo",
+   "tituloNaCapa": true,
+   "capa": "capas/academy/c2982.webp",
+   "capaProporcao": 1.684
+  },
+  {
+   "id": "ac-c2983",
+   "tipo": "academy",
+   "url": "https://www.bniglobalacademy.com/local/intellicart/course/view.php?id=2983",
+   "titulo": "Networking Feminino e Masculino – Equilíbrio que traz resultados",
+   "autor": "Juliana Ramos",
+   "origem": "Curso no BNI Academy",
+   "formato": "Curso",
+   "grupo": "palestras",
+   "dur": "curso",
+   "min": 0,
+   "tags": [
+    "liderança",
+    "tempo"
+   ],
+   "trilhas": [],
+   "resumo": "Homens e mulheres são seres duais, compostos por características e habilidades femininas e masculinas. Mas como é entender essa dualidade, de forma que possamos reconhecer aquelas que são necessárias para termos bons resultados no networking, bem como nos ambientes corporativos? Você já se deparou com aquela líder autoritária, que chega a ser arrogante e torna o ambiente de trabalho desconfortável? E aquele líder…",
+   "tituloNaCapa": true,
+   "capa": "capas/academy/c2983.webp",
+   "capaProporcao": 1.684
+  },
+  {
+   "id": "ac-c1671",
+   "tipo": "academy",
+   "url": "https://www.bniglobalacademy.com/local/intellicart/course/view.php?id=1671",
+   "titulo": "Treinamento de 1-a-1 produtivo",
+   "autor": "BNI Academy",
+   "origem": "Curso no BNI Academy",
+   "formato": "Curso",
+   "grupo": "pratica",
+   "dur": "curso",
+   "min": 0,
+   "tags": [
+    "1 a 1"
+   ],
+   "trilhas": [
+    "credibilidade"
+   ],
+   "resumo": "Como fazer 1-a-1 dentro do método?",
+   "tituloNaCapa": false,
+   "capa": "capas/academy/c1671.webp",
+   "capaProporcao": 1.684
+  },
+  {
+   "id": "ac-c2980",
+   "tipo": "academy",
+   "url": "https://www.bniglobalacademy.com/local/intellicart/course/view.php?id=2980",
+   "titulo": "BNI, Muito Além dos Negócios",
+   "autor": "Reginaldo Ferreira",
+   "origem": "Curso no BNI Academy",
+   "formato": "Curso",
+   "grupo": "palestras",
+   "dur": "curso",
+   "min": 0,
+   "tags": [
+    "vendas",
+    "vida no grupo"
+   ],
+   "trilhas": [],
+   "resumo": "No dia a dia dos empreendedores, nos mais diferentes segmentos e tamanho de empresas, ou como nos acostumamos a nos referir como “no mundo dos negócios”, o sucesso e as conquistas sempre são traduzidos em números! E no BNI temos nos acostumados a números imponentes e que nos enchem de orgulho, afinal, só no Brasil somos +7.000 membros que geram quase R$ 1 bilhão em negócios por ano.",
+   "tituloNaCapa": true,
+   "capa": "capas/academy/c2980.webp",
+   "capaProporcao": 1.684
+  },
+  {
+   "id": "ac-c2985",
+   "tipo": "academy",
+   "url": "https://www.bniglobalacademy.com/local/intellicart/course/view.php?id=2985",
+   "titulo": "O Limite está em sua capacidade de sonhar!",
+   "autor": "Antonio Afonso",
+   "origem": "Curso no BNI Academy",
+   "formato": "Curso",
+   "grupo": "palestras",
+   "dur": "curso",
+   "min": 0,
+   "tags": [
+    "apresentação semanal",
+    "mentalidade",
+    "propósito"
+   ],
+   "trilhas": [],
+   "resumo": "Antonio Afonso estará fazendo a sua apresentação sobre “O Limite está em sua capacidade de sonhar.” O poder da intenção aliado à estrutura, disciplina, frequência e ao hábito da prestação de contas no BNI, permite criar um ecossistema favorável à aceleração dos negócios. Não deixe escapar esta oportunidade!",
+   "tituloNaCapa": true,
+   "capa": "capas/academy/c2985.webp",
+   "capaProporcao": 1.684
+  },
+  {
+   "id": "ac-c2987",
+   "tipo": "academy",
+   "url": "https://www.bniglobalacademy.com/local/intellicart/course/view.php?id=2987",
+   "titulo": "Power Teams: A Chave do Sucesso das Empresas no BNI",
+   "autor": "Camila Nasser",
+   "origem": "Curso no BNI Academy",
+   "formato": "Curso",
+   "grupo": "palestras",
+   "dur": "curso",
+   "min": 0,
+   "tags": [
+    "Power Team"
+   ],
+   "trilhas": [
+    "rentabilidade"
+   ],
+   "resumo": "E se a sua empresa pudesse faturar 3x mais no BNI em um prazo de 6 meses? E se sua empresa pudesse alcançar objetivos arrojados, mesmo em tempos de crise? Como seria se pudesse ter ao seu lado os parceiros certos para o momento da empresa? Nessa palestra ajudarei você a aplicar a ferramenta mais eficaz do BNI para escalar negócios: o Power Team! Como se estruturam? Por onde começar? É tão difícil como falam?…",
+   "tituloNaCapa": true,
+   "capa": "capas/academy/c2987.webp",
+   "capaProporcao": 1.684
+  },
+  {
+   "id": "ac-c2989",
+   "tipo": "academy",
+   "url": "https://www.bniglobalacademy.com/local/intellicart/course/view.php?id=2989",
+   "titulo": "Como acelerar o crescimento dos negócios por meio do Fator Conexão",
+   "autor": "Robert Skrob",
+   "origem": "Curso no BNI Academy",
+   "formato": "Curso",
+   "grupo": "palestras",
+   "dur": "curso",
+   "min": 0,
+   "tags": [
+    "Fator Conexão"
+   ],
+   "trilhas": [
+    "visibilidade"
+   ],
+   "resumo": "Os líderes de negócios mais prestigiados e procurados em cada comunidade são os conectores principais. Os conectores principais atraem clientes, amigos e apoiadores. Você descobrirá como pode se tornar um Master Connector colocando o Fator Conexão para funcionar em seu negócio.",
+   "tituloNaCapa": true,
+   "capa": "capas/academy/c2989.webp",
+   "capaProporcao": 1.684
+  },
+  {
+   "id": "ac-c2988",
+   "tipo": "academy",
+   "url": "https://www.bniglobalacademy.com/local/intellicart/course/view.php?id=2988",
+   "titulo": "Cooperação, uma Nova Forma de Fazer Negócios",
+   "autor": "Alexandre Mantovani",
+   "origem": "Curso no BNI Academy",
+   "formato": "Curso",
+   "grupo": "palestras",
+   "dur": "curso",
+   "min": 0,
+   "tags": [
+    "vendas",
+    "credibilidade",
+    "comunicação",
+    "Givers Gain"
+   ],
+   "trilhas": [],
+   "resumo": "O ser humano ao longo da história desenvolveu uma capacidade incrível de trabalhar em Equipe. Atualmente, tudo que utilizamos, dos utensílios domésticos a meios de transporte e habitação foram produzidos por pessoas que não conhecemos. Nenhuma outra espécie faz isso! Como consequência desta evolução, estamos presenciando o nascimento da geração G - de Generosidade – e que não possui relação alguma com idade.",
+   "tituloNaCapa": true,
+   "capa": "capas/academy/c2988.webp",
+   "capaProporcao": 1.684
+  },
+  {
+   "id": "ac-c2990",
+   "tipo": "academy",
+   "url": "https://www.bniglobalacademy.com/local/intellicart/course/view.php?id=2990",
+   "titulo": "Leadership For Radical Times – Liderança em Tempos Radicais",
+   "autor": "Mac Srinivasan",
+   "origem": "Curso no BNI Academy",
+   "formato": "Curso",
+   "grupo": "palestras",
+   "dur": "curso",
+   "min": 0,
+   "tags": [
+    "apresentação semanal",
+    "liderança",
+    "tempo"
+   ],
+   "trilhas": [],
+   "resumo": "Mac Srinivasan e sua apresentação sobre “Liderança para tempos radicais.”",
+   "tituloNaCapa": true,
+   "capa": "capas/academy/c2990.webp",
+   "capaProporcao": 1.684
+  },
+  {
+   "id": "ac-c2991",
+   "tipo": "academy",
+   "url": "https://www.bniglobalacademy.com/local/intellicart/course/view.php?id=2991",
+   "titulo": "Our Exciting Road Ahead – Nossa empolgante Estrada à frente",
+   "autor": "Graham Weihmiller",
+   "origem": "Curso no BNI Academy",
+   "formato": "Curso",
+   "grupo": "palestras",
+   "dur": "curso",
+   "min": 0,
+   "tags": [
+    "apresentação semanal"
+   ],
+   "trilhas": [],
+   "resumo": "Graham Weihmiller e sua apresentação sobre “Nossa empolgante estrada à frente.”",
+   "tituloNaCapa": true,
+   "capa": "capas/academy/c2991.webp",
+   "capaProporcao": 1.684
+  },
+  {
+   "id": "ac-c2992",
+   "tipo": "academy",
+   "url": "https://www.bniglobalacademy.com/local/intellicart/course/view.php?id=2992",
+   "titulo": "Infinite Giving – Doação Infinita",
+   "autor": "Dr. Ivan Misner",
+   "origem": "Curso no BNI Academy",
+   "formato": "Curso",
+   "grupo": "palestras",
+   "dur": "curso",
+   "min": 0,
+   "tags": [
+    "apresentação semanal"
+   ],
+   "trilhas": [],
+   "resumo": "Dr. Ivan Misner em uma apresentação encima do seu novo Livro chamado “Infinite Giving.”",
+   "tituloNaCapa": true,
+   "capa": "capas/academy/c2992.webp",
+   "capaProporcao": 1.684
+  },
+  {
+   "id": "ac-c2986",
+   "tipo": "academy",
+   "url": "https://www.bniglobalacademy.com/local/intellicart/course/view.php?id=2986",
+   "titulo": "Mercado Alvo e Power Teams na Prática do Networking",
+   "autor": "Eduardo Santana",
+   "origem": "Curso no BNI Academy",
+   "formato": "Curso",
+   "grupo": "palestras",
+   "dur": "curso",
+   "min": 0,
+   "tags": [
+    "Power Team",
+    "mercado-alvo"
+   ],
+   "trilhas": [
+    "rentabilidade"
+   ],
+   "resumo": "O desenvolvimento dos Power Team's é uma das fronteiras mundiais de desenvolvimento do Networking. Neste treinamento você vai entender por que os Power Team's eficazes são desenvolvidos à partir de um mesmo Mercado Alvo e não por Esferas de Contato, qual a diferença entre os dois conceitos e como definir ou refinar o seu Mercado Alvo para desenvolver seu Power Team na sua equipe.",
+   "tituloNaCapa": true,
+   "capa": "capas/academy/c2986.webp",
+   "capaProporcao": 1.684
+  },
+  {
+   "id": "ac-c3935",
+   "tipo": "academy",
+   "url": "https://www.bniglobalacademy.com/local/intellicart/course/view.php?id=3935",
+   "titulo": "Bem-vindo(a) ao BNI® Business Builder",
+   "autor": "BNI Academy",
+   "origem": "Curso no BNI Academy",
+   "formato": "Curso",
+   "grupo": "comece",
+   "dur": "curso",
+   "min": 0,
+   "tags": [
+    "networking"
+   ],
+   "trilhas": [],
+   "resumo": "",
+   "tituloNaCapa": false,
+   "capa": "capas/academy/c3935.webp",
+   "capaProporcao": 1.684
+  },
+  {
+   "id": "ac-c2984",
+   "tipo": "academy",
+   "url": "https://www.bniglobalacademy.com/local/intellicart/course/view.php?id=2984",
+   "titulo": "Como ter uma receita previsível usando o networking como estratégia",
+   "autor": "Fábio Torres",
+   "origem": "Curso no BNI Academy",
+   "formato": "Curso",
+   "grupo": "palestras",
+   "dur": "curso",
+   "min": 0,
+   "tags": [
+    "receita"
+   ],
+   "trilhas": [
+    "rentabilidade"
+   ],
+   "resumo": "E se você pudesse implementar um processo estruturado de networking para gerar um fluxo previsível de prospecção e vendas altamente qualificado e com isso atingir suas metas mensais de forma previsível? Como seria aumentar em 20, 30, 50, 100% o seu faturamento sem precisar fazer prospecção fria ou abordagens tradicionais de vendas? Nesta palestra você terá conhecerá um processo passo a passo para realizar suas metas…",
+   "tituloNaCapa": true,
+   "capa": "capas/academy/c2984.webp",
+   "capaProporcao": 1.684
+  },
+  {
+   "id": "ac-c4099",
+   "tipo": "academy",
+   "url": "https://www.bniglobalacademy.com/local/intellicart/course/view.php?id=4099",
+   "titulo": "The John Maxwell Team - Episódio 1",
+   "autor": "BNI Academy",
+   "origem": "Curso no BNI Academy",
+   "formato": "Curso",
+   "grupo": "livros",
+   "dur": "curso",
+   "min": 0,
+   "tags": [
+    "networking"
+   ],
+   "trilhas": [],
+   "resumo": "Episódio 1 - Lei da Conexão",
+   "tituloNaCapa": false,
+   "capa": "capas/academy/c4099.webp",
+   "capaProporcao": 1.684
+  },
+  {
+   "id": "ac-c4560",
+   "tipo": "academy",
+   "url": "https://www.bniglobalacademy.com/local/intellicart/course/view.php?id=4560",
+   "titulo": "3+1 Master Class: Retenção",
+   "autor": "BNI Academy",
+   "origem": "Curso no BNI Academy",
+   "formato": "Curso",
+   "grupo": "lideranca",
+   "dur": "curso",
+   "min": 0,
+   "tags": [
+    "vida no grupo"
+   ],
+   "trilhas": [],
+   "resumo": "BNI Brasil's Personal Meeting Room",
+   "tituloNaCapa": false,
+   "capa": "capas/academy/c4560.webp",
+   "capaProporcao": 3.448
+  },
+  {
+   "id": "ac-c4559",
+   "tipo": "academy",
+   "url": "https://www.bniglobalacademy.com/local/intellicart/course/view.php?id=4559",
+   "titulo": "3+1 Master Class: Contando Histórias",
+   "autor": "BNI Academy",
+   "origem": "Curso no BNI Academy",
+   "formato": "Curso",
+   "grupo": "pratica",
+   "dur": "curso",
+   "min": 0,
+   "tags": [
+    "histórias"
+   ],
+   "trilhas": [
+    "visibilidade"
+   ],
+   "resumo": "BNI Brasil's Personal Meeting Room",
+   "tituloNaCapa": false,
+   "capa": "capas/academy/c4559.webp",
+   "capaProporcao": 3.448
+  },
+  {
+   "id": "ac-c4554",
+   "tipo": "academy",
+   "url": "https://www.bniglobalacademy.com/local/intellicart/course/view.php?id=4554",
+   "titulo": "Treinamento Comitê de afiliação SP Central",
+   "autor": "BNI Academy",
+   "origem": "Curso no BNI Academy",
+   "formato": "Curso",
+   "grupo": "lideranca",
+   "dur": "curso",
+   "min": 0,
+   "tags": [
+    "tempo"
+   ],
+   "trilhas": [],
+   "resumo": "\"• Entender o funcionamento da equipe • Conhecer as ferramentas disponíveis à função • Conhecer as rotinas da função • Conhecer as Políticas e Diretrizes do BNI\"",
+   "tituloNaCapa": true,
+   "capa": "capas/academy/c4554.webp",
+   "capaProporcao": 1.684
+  },
+  {
+   "id": "ac-c4561",
+   "tipo": "academy",
+   "url": "https://www.bniglobalacademy.com/local/intellicart/course/view.php?id=4561",
+   "titulo": "3+1 Master Class: Preenchimento",
+   "autor": "BNI Academy",
+   "origem": "Curso no BNI Academy",
+   "formato": "Curso",
+   "grupo": "lideranca",
+   "dur": "curso",
+   "min": 0,
+   "tags": [
+    "networking"
+   ],
+   "trilhas": [],
+   "resumo": "BNI Brasil's Personal Meeting Room",
+   "tituloNaCapa": false,
+   "capa": "capas/academy/c4561.webp",
+   "capaProporcao": 3.448
+  },
+  {
+   "id": "ac-c4594",
+   "tipo": "academy",
+   "url": "https://www.bniglobalacademy.com/local/intellicart/course/view.php?id=4594",
+   "titulo": "Palestra Conrado Adolpho 08/04",
+   "autor": "BNI Academy",
+   "origem": "Curso no BNI Academy",
+   "formato": "Curso",
+   "grupo": "palestras",
+   "dur": "curso",
+   "min": 0,
+   "tags": [
+    "networking"
+   ],
+   "trilhas": [],
+   "resumo": "Os 3 passos para manter sua empresa de pé durante a crise.",
+   "tituloNaCapa": true,
+   "capa": "capas/academy/c4594.webp",
+   "capaProporcao": 1.684
+  },
+  {
+   "id": "ac-c4636",
+   "tipo": "academy",
+   "url": "https://www.bniglobalacademy.com/local/intellicart/course/view.php?id=4636",
+   "titulo": "Aprenda a potencializar suas Reuniões de 1-a-1 (1-a-1 transformador)",
+   "autor": "BNI Academy",
+   "origem": "Curso no BNI Academy",
+   "formato": "Curso",
+   "grupo": "pratica",
+   "dur": "curso",
+   "min": 0,
+   "tags": [
+    "1 a 1"
+   ],
+   "trilhas": [
+    "credibilidade"
+   ],
+   "resumo": "\"A ferramenta das reuniões 1-a-1 é uma das mais poderosas no BNI. Nos possibilita apresentar nosso negócio e conhecer o negócio dos nossos parceiros para melhor referenciá-los. Nosso objetivo ao fazer uma dessas reuniões precisa ser gerar pelo menos uma referência para nosso parceiro.",
+   "tituloNaCapa": true,
+   "capa": "capas/academy/c4636.webp",
+   "capaProporcao": 1.684
+  },
+  {
+   "id": "ac-c4562",
+   "tipo": "academy",
+   "url": "https://www.bniglobalacademy.com/local/intellicart/course/view.php?id=4562",
+   "titulo": "3+1 Master Class: Lançamento",
+   "autor": "BNI Academy",
+   "origem": "Curso no BNI Academy",
+   "formato": "Curso",
+   "grupo": "lideranca",
+   "dur": "curso",
+   "min": 0,
+   "tags": [
+    "networking"
+   ],
+   "trilhas": [],
+   "resumo": "BNI Brasil's Personal Meeting Room",
+   "tituloNaCapa": false,
+   "capa": "capas/academy/c4562.webp",
+   "capaProporcao": 3.448
+  },
+  {
+   "id": "ac-c4649",
+   "tipo": "academy",
+   "url": "https://www.bniglobalacademy.com/local/intellicart/course/view.php?id=4649",
+   "titulo": "Medidas de Apoio Online - Parte 3 - LindedIn",
+   "autor": "BNI Academy",
+   "origem": "Curso no BNI Academy",
+   "formato": "Curso",
+   "grupo": "negocios",
+   "dur": "curso",
+   "min": 0,
+   "tags": [
+    "online"
+   ],
+   "trilhas": [],
+   "resumo": "Série produzida pela regional BNI Espírito Santo, reunindo diversos especialistas que apresentam alternativas de ação para apoiar os empresários brasieiros nas tomadas de decisão para superarem as consequências do isolamento social.",
+   "tituloNaCapa": false,
+   "capa": "capas/academy/c4649.webp",
+   "capaProporcao": 1.684
+  },
+  {
+   "id": "ac-c4648",
+   "tipo": "academy",
+   "url": "https://www.bniglobalacademy.com/local/intellicart/course/view.php?id=4648",
+   "titulo": "Medidas de Apoio Online - Parte 4 - Homeworking",
+   "autor": "BNI Academy",
+   "origem": "Curso no BNI Academy",
+   "formato": "Curso",
+   "grupo": "negocios",
+   "dur": "curso",
+   "min": 0,
+   "tags": [
+    "online"
+   ],
+   "trilhas": [],
+   "resumo": "Série produzida pela regional BNI Espírito Santo, reunindo diversos especialistas que apresentam alternativas de ação para apoiar os empresários brasieiros nas tomadas de decisão para superarem as consequências do isolamento social.",
+   "tituloNaCapa": false,
+   "capa": "capas/academy/c4648.webp",
+   "capaProporcao": 1.684
+  },
+  {
+   "id": "ac-c4670",
+   "tipo": "academy",
+   "url": "https://www.bniglobalacademy.com/local/intellicart/course/view.php?id=4670",
+   "titulo": "Medidas de Apoio Online - Parte 1 - Facebook",
+   "autor": "BNI Academy",
+   "origem": "Curso no BNI Academy",
+   "formato": "Curso",
+   "grupo": "negocios",
+   "dur": "curso",
+   "min": 0,
+   "tags": [
+    "online"
+   ],
+   "trilhas": [],
+   "resumo": "Série produzida pela regional BNI Espírito Santo, reunindo diversos especialistas que apresentam alternativas de ação para apoiar os empresários brasieiros nas tomadas de decisão para superarem as consequências do isolamento social.",
+   "tituloNaCapa": false,
+   "capa": "capas/academy/c4670.webp",
+   "capaProporcao": 1.684
+  },
+  {
+   "id": "ac-c4631",
+   "tipo": "academy",
+   "url": "https://www.bniglobalacademy.com/local/intellicart/course/view.php?id=4631",
+   "titulo": "Medidas de Apoio - Linhas de Crédito Emergenciais - (Para Estado do Espírito Santo)",
+   "autor": "BNI Academy",
+   "origem": "Curso no BNI Academy",
+   "formato": "Curso",
+   "grupo": "negocios",
+   "dur": "curso",
+   "min": 0,
+   "tags": [
+    "networking"
+   ],
+   "trilhas": [],
+   "resumo": "Série produzida pela regional BNI Espírito Santo, reunindo diversos especialistas que apresentam alternativas de ação para apoiar os empresários brasieiros nas tomadas de decisão para superarem as consequências do isolamento social.",
+   "tituloNaCapa": false,
+   "capa": "capas/academy/c4631.webp",
+   "capaProporcao": 1.684
+  },
+  {
+   "id": "ac-c4671",
+   "tipo": "academy",
+   "url": "https://www.bniglobalacademy.com/local/intellicart/course/view.php?id=4671",
+   "titulo": "Medidas de Apoio Online - Parte 2 - Instagram",
+   "autor": "BNI Academy",
+   "origem": "Curso no BNI Academy",
+   "formato": "Curso",
+   "grupo": "negocios",
+   "dur": "curso",
+   "min": 0,
+   "tags": [
+    "online"
+   ],
+   "trilhas": [],
+   "resumo": "Série produzida pela regional BNI Espírito Santo, reunindo diversos especialistas que apresentam alternativas de ação para apoiar os empresários brasieiros nas tomadas de decisão para superarem as consequências do isolamento social.",
+   "tituloNaCapa": false,
+   "capa": "capas/academy/c4671.webp",
+   "capaProporcao": 1.684
+  },
+  {
+   "id": "ac-c4673",
+   "tipo": "academy",
+   "url": "https://www.bniglobalacademy.com/local/intellicart/course/view.php?id=4673",
+   "titulo": "Medidas de Apoio - Apresentações Online",
+   "autor": "BNI Academy",
+   "origem": "Curso no BNI Academy",
+   "formato": "Curso",
+   "grupo": "negocios",
+   "dur": "curso",
+   "min": 0,
+   "tags": [
+    "apresentação semanal",
+    "online"
+   ],
+   "trilhas": [],
+   "resumo": "Série produzida pela regional BNI Espírito Santo, reunindo diversos especialistas que apresentam alternativas de ação para apoiar os empresários brasieiros nas tomadas de decisão para superarem as consequências do isolamento social.",
+   "tituloNaCapa": false,
+   "capa": "capas/academy/c4673.webp",
+   "capaProporcao": 1.684
+  },
+  {
+   "id": "ac-c4672",
+   "tipo": "academy",
+   "url": "https://www.bniglobalacademy.com/local/intellicart/course/view.php?id=4672",
+   "titulo": "Medidas de Apoio de Contrato - Parte 1",
+   "autor": "BNI Academy",
+   "origem": "Curso no BNI Academy",
+   "formato": "Curso",
+   "grupo": "negocios",
+   "dur": "curso",
+   "min": 0,
+   "tags": [
+    "networking"
+   ],
+   "trilhas": [],
+   "resumo": "Série produzida pela regional BNI Espírito Santo, reunindo diversos especialistas que apresentam alternativas de ação para apoiar os empresários brasieiros nas tomadas de decisão para superarem as consequências do isolamento social.",
+   "tituloNaCapa": false,
+   "capa": "capas/academy/c4672.webp",
+   "capaProporcao": 1.684
+  },
+  {
+   "id": "ac-c4687",
+   "tipo": "academy",
+   "url": "https://www.bniglobalacademy.com/local/intellicart/course/view.php?id=4687",
+   "titulo": "Medidas de Apoio Estratégicas - Parte 2 - Cisne Negro",
+   "autor": "BNI Academy",
+   "origem": "Curso no BNI Academy",
+   "formato": "Curso",
+   "grupo": "negocios",
+   "dur": "curso",
+   "min": 0,
+   "tags": [
+    "networking"
+   ],
+   "trilhas": [],
+   "resumo": "Série produzida pela regional BNI Espírito Santo, reunindo diversos especialistas que apresentam alternativas de ação para apoiar os empresários brasieiros nas tomadas de decisão para superarem as consequências do isolamento social.",
+   "tituloNaCapa": false,
+   "capa": "capas/academy/c4687.webp",
+   "capaProporcao": 1.684
+  },
+  {
+   "id": "ac-c4686",
+   "tipo": "academy",
+   "url": "https://www.bniglobalacademy.com/local/intellicart/course/view.php?id=4686",
+   "titulo": "Medidas de Apoio Financeiras - Parte 1",
+   "autor": "BNI Academy",
+   "origem": "Curso no BNI Academy",
+   "formato": "Curso",
+   "grupo": "negocios",
+   "dur": "curso",
+   "min": 0,
+   "tags": [
+    "networking"
+   ],
+   "trilhas": [],
+   "resumo": "Série produzida pela regional BNI Espírito Santo, reunindo diversos especialistas que apresentam alternativas de ação para apoiar os empresários brasieiros nas tomadas de decisão para superarem as consequências do isolamento social.",
+   "tituloNaCapa": false,
+   "capa": "capas/academy/c4686.webp",
+   "capaProporcao": 1.684
+  },
+  {
+   "id": "ac-c4689",
+   "tipo": "academy",
+   "url": "https://www.bniglobalacademy.com/local/intellicart/course/view.php?id=4689",
+   "titulo": "Medidas de Apoio Estratégicas - Parte 1 - Análise de cenário",
+   "autor": "BNI Academy",
+   "origem": "Curso no BNI Academy",
+   "formato": "Curso",
+   "grupo": "negocios",
+   "dur": "curso",
+   "min": 0,
+   "tags": [
+    "networking"
+   ],
+   "trilhas": [],
+   "resumo": "Série produzida pela regional BNI Espírito Santo, reunindo diversos especialistas que apresentam alternativas de ação para apoiar os empresários brasieiros nas tomadas de decisão para superarem as consequências do isolamento social.",
+   "tituloNaCapa": false,
+   "capa": "capas/academy/c4689.webp",
+   "capaProporcao": 1.684
+  },
+  {
+   "id": "ac-c4823",
+   "tipo": "academy",
+   "url": "https://www.bniglobalacademy.com/local/intellicart/course/view.php?id=4823",
+   "titulo": "Livro: O Efeito Conexão",
+   "autor": "BNI Academy",
+   "origem": "Curso no BNI Academy",
+   "formato": "Curso",
+   "grupo": "livros",
+   "dur": "curso",
+   "min": 0,
+   "tags": [
+    "Fator Conexão",
+    "livro"
+   ],
+   "trilhas": [
+    "rentabilidade"
+   ],
+   "resumo": "Este livro é sobre a associação à Organização BNI®, a Maior e Mais Bem-Sucedida Organização de Networking de Negócios do Mundo. É para empresários e profissionais liberais que estão pensando em ingressar em uma Equipe do BNI para expandir seus negócios. Sua Equipe BNI lhe dá uma rede em que você pode confiar, para quem você pode indicar seus amigos, familiares e melhores clientes.",
+   "tituloNaCapa": true,
+   "capa": "capas/academy/c4823.webp",
+   "capaProporcao": 1.684
+  },
+  {
+   "id": "ac-c4706",
+   "tipo": "academy",
+   "url": "https://www.bniglobalacademy.com/local/intellicart/course/view.php?id=4706",
+   "titulo": "Sistemas de gestão ideais para o seu negócio (Para Estado de São Paulo)",
+   "autor": "BNI Academy",
+   "origem": "Curso no BNI Academy",
+   "formato": "Curso",
+   "grupo": "negocios",
+   "dur": "curso",
+   "min": 0,
+   "tags": [
+    "networking"
+   ],
+   "trilhas": [],
+   "resumo": "Dicas financeiras para lidar com esse momento que estamos enfrentando",
+   "tituloNaCapa": false,
+   "capa": "capas/academy/c4706.webp",
+   "capaProporcao": 1.684
+  },
+  {
+   "id": "ac-c4691",
+   "tipo": "academy",
+   "url": "https://www.bniglobalacademy.com/local/intellicart/course/view.php?id=4691",
+   "titulo": "Medidas de Apoio de Saúde mental - Parte 1 - Reprogramação de Mindset",
+   "autor": "BNI Academy",
+   "origem": "Curso no BNI Academy",
+   "formato": "Curso",
+   "grupo": "negocios",
+   "dur": "curso",
+   "min": 0,
+   "tags": [
+    "networking"
+   ],
+   "trilhas": [],
+   "resumo": "Série produzida pela regional BNI Espírito Santo, reunindo diversos especialistas que apresentam alternativas de ação para apoiar os empresários brasieiros nas tomadas de decisão para superarem as consequências do isolamento social.",
+   "tituloNaCapa": false,
+   "capa": "capas/academy/c4691.webp",
+   "capaProporcao": 1.684
+  },
+  {
+   "id": "ac-c4674",
+   "tipo": "academy",
+   "url": "https://www.bniglobalacademy.com/local/intellicart/course/view.php?id=4674",
+   "titulo": "Medidas de Apoio - Finanças Pessoais",
+   "autor": "BNI Academy",
+   "origem": "Curso no BNI Academy",
+   "formato": "Curso",
+   "grupo": "negocios",
+   "dur": "curso",
+   "min": 0,
+   "tags": [
+    "networking"
+   ],
+   "trilhas": [],
+   "resumo": "Série produzida pela regional BNI Espírito Santo, reunindo diversos especialistas que apresentam alternativas de ação para apoiar os empresários brasieiros nas tomadas de decisão para superarem as consequências do isolamento social.",
+   "tituloNaCapa": false,
+   "capa": "capas/academy/c4674.webp",
+   "capaProporcao": 1.684
+  },
+  {
+   "id": "ac-c4914",
+   "tipo": "academy",
+   "url": "https://www.bniglobalacademy.com/local/intellicart/course/view.php?id=4914",
+   "titulo": "Como otimizar o processo de candidatura utilizando o Trello",
+   "autor": "BNI Academy",
+   "origem": "Curso no BNI Academy",
+   "formato": "Curso",
+   "grupo": "negocios",
+   "dur": "curso",
+   "min": 0,
+   "tags": [
+    "convidados",
+    "liderança"
+   ],
+   "trilhas": [],
+   "resumo": "Objetivo do curso é apresentar boas práticas de uso da ferramenta TRELLO para otimizar o processo de candidatura dentro de uma equipe BNI e também possibilitar aproveitamento dos formulários entre equipes de uma mesma regional.",
+   "tituloNaCapa": false,
+   "capa": "capas/academy/c4914.webp",
+   "capaProporcao": 3.448
+  },
+  {
+   "id": "ac-c5029",
+   "tipo": "academy",
+   "url": "https://www.bniglobalacademy.com/local/intellicart/course/view.php?id=5029",
+   "titulo": "Usar as Mídias Sociais de Forma Eficaz",
+   "autor": "BNI Academy",
+   "origem": "Curso no BNI Academy",
+   "formato": "Curso",
+   "grupo": "habilidades",
+   "dur": "curso",
+   "min": 0,
+   "tags": [
+    "mídias sociais"
+   ],
+   "trilhas": [
+    "visibilidade"
+   ],
+   "resumo": "",
+   "tituloNaCapa": true,
+   "capa": "capas/academy/c5029.webp",
+   "capaProporcao": 1.684
+  },
+  {
+   "id": "ac-c5033",
+   "tipo": "academy",
+   "url": "https://www.bniglobalacademy.com/local/intellicart/course/view.php?id=5033",
+   "titulo": "Teste Sobre Políticas e Procedimentos",
+   "autor": "BNI Academy",
+   "origem": "Curso no BNI Academy",
+   "formato": "Curso",
+   "grupo": "lideranca",
+   "dur": "curso",
+   "min": 0,
+   "tags": [
+    "credibilidade",
+    "vida no grupo"
+   ],
+   "trilhas": [],
+   "resumo": "Cada membro precisa aprender e defender as políticas e procedimentos do grupo para garantir o crescimento e sucesso contínuos para o grupo. O pré-requisito para este curso é o Programa de Treinamento de Código de Ética e Políticas BNI®.",
+   "tituloNaCapa": true,
+   "capa": "capas/academy/c5033.webp",
+   "capaProporcao": 1.684
+  },
+  {
+   "id": "ac-c5031",
+   "tipo": "academy",
+   "url": "https://www.bniglobalacademy.com/local/intellicart/course/view.php?id=5031",
+   "titulo": "Definir e Medir Objetivos de Crescimento",
+   "autor": "BNI Academy",
+   "origem": "Curso no BNI Academy",
+   "formato": "Curso",
+   "grupo": "habilidades",
+   "dur": "curso",
+   "min": 0,
+   "tags": [
+    "comunicação",
+    "vida no grupo"
+   ],
+   "trilhas": [],
+   "resumo": "Definir objetivos é uma parte importante de fazer o Grupo BNI ser bem-sucedido. Sem metas, você não tem uma direção para trabalhar. Este curso se concentrará na importância de criar metas mensuráveis para o seu grupo, comunicar essas metas aos membros e como corrigir o curso se você se desviar do caminho.",
+   "tituloNaCapa": false,
+   "capa": "capas/academy/c5031.webp",
+   "capaProporcao": 1.684
+  },
+  {
+   "id": "ac-c5034",
+   "tipo": "academy",
+   "url": "https://www.bniglobalacademy.com/local/intellicart/course/view.php?id=5034",
+   "titulo": "Reforçar Políticas e Procedimentos",
+   "autor": "BNI Academy",
+   "origem": "Curso no BNI Academy",
+   "formato": "Curso",
+   "grupo": "lideranca",
+   "dur": "curso",
+   "min": 0,
+   "tags": [
+    "networking"
+   ],
+   "trilhas": [],
+   "resumo": "Yet to add the course",
+   "tituloNaCapa": false,
+   "capa": "capas/academy/c5034.webp",
+   "capaProporcao": 1.684
+  },
+  {
+   "id": "ac-c5035",
+   "tipo": "academy",
+   "url": "https://www.bniglobalacademy.com/local/intellicart/course/view.php?id=5035",
+   "titulo": "Reconhecer o Bom Desempenho",
+   "autor": "BNI Academy",
+   "origem": "Curso no BNI Academy",
+   "formato": "Curso",
+   "grupo": "lideranca",
+   "dur": "curso",
+   "min": 0,
+   "tags": [
+    "novos membros",
+    "mentalidade",
+    "vida no grupo"
+   ],
+   "trilhas": [],
+   "resumo": "Reconhecer e recompensar o desempenho desejável é essencial para motivar os membros do grupo a serem o melhor que podem ser. Ao fazer isso, você aumentará seu senso de autoestima e os capacitará a fazer maiores contribuições. Este curso se concentra em como reconhecer o bom desempenho entre os membros do grupo.",
+   "tituloNaCapa": false,
+   "capa": "capas/academy/c5035.webp",
+   "capaProporcao": 1.684
+  },
+  {
+   "id": "ac-c5038",
+   "tipo": "academy",
+   "url": "https://www.bniglobalacademy.com/local/intellicart/course/view.php?id=5038",
+   "titulo": "Como Exibir Uma Atitude Positiva e Solidária",
+   "autor": "BNI Academy",
+   "origem": "Curso no BNI Academy",
+   "formato": "Curso",
+   "grupo": "habilidades",
+   "dur": "curso",
+   "min": 0,
+   "tags": [
+    "comunicação",
+    "liderança",
+    "mentalidade"
+   ],
+   "trilhas": [],
+   "resumo": "“Suas atitudes falam tão alto que eu não consigo ouvir o que você diz.” – Ralph Waldo Emerson As 2 principais características de um GRANDE networker é a positividade e ser prestativo aos outros Como líderes de uma organização de networking, se modelarmos esses comportamentos em nossas reuniões e atividades semanais - podemos facilmente construir e treinar outras pessoas para fazer o mesmo!",
+   "tituloNaCapa": false,
+   "capa": "capas/academy/c5038.webp",
+   "capaProporcao": 1.684
+  },
+  {
+   "id": "ac-c5036",
+   "tipo": "academy",
+   "url": "https://www.bniglobalacademy.com/local/intellicart/course/view.php?id=5036",
+   "titulo": "Oferecer Momentos de Educação Relevantes",
+   "autor": "BNI Academy",
+   "origem": "Curso no BNI Academy",
+   "formato": "Curso",
+   "grupo": "lideranca",
+   "dur": "curso",
+   "min": 0,
+   "tags": [
+    "vida no grupo"
+   ],
+   "trilhas": [],
+   "resumo": "Usar Momentos de Educação para dar aos membros informação sobre uma técnica relacionada ao BNI, habilidade ou estratégia é uma das formas que conseguimos atingir os objetivos do grupo.",
+   "tituloNaCapa": false,
+   "capa": "capas/academy/c5036.webp",
+   "capaProporcao": 1.684
+  },
+  {
+   "id": "ac-c5043",
+   "tipo": "academy",
+   "url": "https://www.bniglobalacademy.com/local/intellicart/course/view.php?id=5043",
+   "titulo": "O Programa Passaporte",
+   "autor": "BNI Academy",
+   "origem": "Curso no BNI Academy",
+   "formato": "Curso",
+   "grupo": "comece",
+   "dur": "curso",
+   "min": 0,
+   "tags": [
+    "networking"
+   ],
+   "trilhas": [],
+   "resumo": "Este curso dará aos Mentores orientação sobre como deve ser o relacionamento com o mentor, bem como os tópicos que eles devem abordar ao se encontrar com o membro designado. A importância e o sucesso que pode vir do Perfil GAINS e da Biografia do Membro também é foco desta lição.",
+   "tituloNaCapa": false,
+   "capa": "capas/academy/c5043.webp",
+   "capaProporcao": 1.684
+  },
+  {
+   "id": "ac-c5039",
+   "tipo": "academy",
+   "url": "https://www.bniglobalacademy.com/local/intellicart/course/view.php?id=5039",
+   "titulo": "Realizar Momentos de Coaching",
+   "autor": "BNI Academy",
+   "origem": "Curso no BNI Academy",
+   "formato": "Curso",
+   "grupo": "lideranca",
+   "dur": "curso",
+   "min": 0,
+   "tags": [
+    "1 a 1",
+    "liderança",
+    "vida no grupo"
+   ],
+   "trilhas": [],
+   "resumo": "A Equipe de Liderança realiza momentos de coaching com outros colegas de equipe de liderança e outros membros do grupo. Pode ser reuniões de 1-a-1 quando existe uma preocupação ou um membro precisa apenas de uma pequena ajuda para ser mais bem-sucedido.",
+   "tituloNaCapa": false,
+   "capa": "capas/academy/c5039.webp",
+   "capaProporcao": 1.684
+  },
+  {
+   "id": "ac-c5041",
+   "tipo": "academy",
+   "url": "https://www.bniglobalacademy.com/local/intellicart/course/view.php?id=5041",
+   "titulo": "Realizar a Revisão dos Sete Meses",
+   "autor": "BNI Academy",
+   "origem": "Curso no BNI Academy",
+   "formato": "Curso",
+   "grupo": "lideranca",
+   "dur": "curso",
+   "min": 0,
+   "tags": [
+    "tempo",
+    "vida no grupo",
+    "propósito"
+   ],
+   "trilhas": [],
+   "resumo": "Verificar com os membros no sétimo mês de afiliação dá ao grupo feedback sobre se o membro planeja renovar e dá tempo suficiente para ajustar e ajudar o membro. Além disso, ajuda o membro a entender no que ele precisa trabalhar se estiver com dificuldades. Este curso se concentra em como conduzir a Avaliação de Sete Meses.",
+   "tituloNaCapa": false,
+   "capa": "capas/academy/c5041.webp",
+   "capaProporcao": 1.684
+  },
+  {
+   "id": "ac-c5040",
+   "tipo": "academy",
+   "url": "https://www.bniglobalacademy.com/local/intellicart/course/view.php?id=5040",
+   "titulo": "Realizar a Diligência Prévia no Formulário de Candidatura",
+   "autor": "BNI Academy",
+   "origem": "Curso no BNI Academy",
+   "formato": "Curso",
+   "grupo": "lideranca",
+   "dur": "curso",
+   "min": 0,
+   "tags": [
+    "novos membros",
+    "vida no grupo"
+   ],
+   "trilhas": [],
+   "resumo": "Escolher os candidatos certos para se juntar ao grupo é tão importante quanto uma empresa contratando os candidatos certos. O novo membro em potencial deve ser capaz de AGREGAR ao sucesso do grupo. A avaliação adequada de todos os candidatos ajudará a tornar o processo de seleção bem-sucedido.",
+   "tituloNaCapa": false,
+   "capa": "capas/academy/c5040.webp",
+   "capaProporcao": 1.684
+  },
+  {
+   "id": "ac-c5045",
+   "tipo": "academy",
+   "url": "https://www.bniglobalacademy.com/local/intellicart/course/view.php?id=5045",
+   "titulo": "Demonstrar os Valores Fundamentais do BNI",
+   "autor": "BNI Academy",
+   "origem": "Curso no BNI Academy",
+   "formato": "Curso",
+   "grupo": "habilidades",
+   "dur": "curso",
+   "min": 0,
+   "tags": [
+    "comunicação",
+    "liderança",
+    "vida no grupo"
+   ],
+   "trilhas": [],
+   "resumo": "Os valores de uma organização fazem uma afirmação do que eles consideram ou estimam altamente. Quais são os seus valores? Como posso, como líder de um grupo, garantir que represento esses valores em minhas ações e comunicação? Este curso busca responder a essas perguntas e muito mais!",
+   "tituloNaCapa": false,
+   "capa": "capas/academy/c5045.webp",
+   "capaProporcao": 1.684
+  },
+  {
+   "id": "ac-c5044",
+   "tipo": "academy",
+   "url": "https://www.bniglobalacademy.com/local/intellicart/course/view.php?id=5044",
+   "titulo": "Como Superar Objeções",
+   "autor": "BNI Academy",
+   "origem": "Curso no BNI Academy",
+   "formato": "Curso",
+   "grupo": "habilidades",
+   "dur": "curso",
+   "min": 0,
+   "tags": [
+    "objeções"
+   ],
+   "trilhas": [
+    "visibilidade"
+   ],
+   "resumo": "Anfitriões de Convidados comumente enfrentam objeções dos convidados ao fazer o acompanhamento depois que o convidado compareceu à primeira Reunião do Grupo BNI®. Em vez de esperar que os convidados não tenham objeções, passe algum tempo se preparando para eles com antecedência. Este curso tratará das objeções comuns e das melhores maneiras de lidar com elas.",
+   "tituloNaCapa": false,
+   "capa": "capas/academy/c5044.webp",
+   "capaProporcao": 1.684
+  },
+  {
+   "id": "ac-c5047",
+   "tipo": "academy",
+   "url": "https://www.bniglobalacademy.com/local/intellicart/course/view.php?id=5047",
+   "titulo": "Liderança Que Desenvolve Ótimos Membros",
+   "autor": "BNI Academy",
+   "origem": "Curso no BNI Academy",
+   "formato": "Curso",
+   "grupo": "lideranca",
+   "dur": "curso",
+   "min": 0,
+   "tags": [
+    "liderança",
+    "vida no grupo"
+   ],
+   "trilhas": [],
+   "resumo": "O desenvolvimento de bons membros começa com você! Como você é uma função modelo para seus membros? Para ser um modelo bem-sucedido para seu grupo você precisa “fazer 6 coisas, 1000 vezes….e não 1000 coisas, 6 vezes.” – Dr. Misner. Seja um mentor para aqueles no seu grupo e você terá um grupo forte e membros bem-sucedidos como resultado.",
+   "tituloNaCapa": false,
+   "capa": "capas/academy/c5047.webp",
+   "capaProporcao": 1.684
+  },
+  {
+   "id": "ac-c5050",
+   "tipo": "academy",
+   "url": "https://www.bniglobalacademy.com/local/intellicart/course/view.php?id=5050",
+   "titulo": "Realizar Reuniões de Sucesso do Grupo",
+   "autor": "BNI Academy",
+   "origem": "Curso no BNI Academy",
+   "formato": "Curso",
+   "grupo": "lideranca",
+   "dur": "curso",
+   "min": 0,
+   "tags": [
+    "novos membros",
+    "vida no grupo"
+   ],
+   "trilhas": [],
+   "resumo": "Avaliar o grupo em um processo contínuo. Realizar Reuniões de Sucesso do Grupo levará a mais sucesso do grupo. Escolher os novos membros certos e desenvolver os membros atuais é fundamental para o sucesso de cada grupo.",
+   "tituloNaCapa": false,
+   "capa": "capas/academy/c5050.webp",
+   "capaProporcao": 1.684
+  },
+  {
+   "id": "ac-c5051",
+   "tipo": "academy",
+   "url": "https://www.bniglobalacademy.com/local/intellicart/course/view.php?id=5051",
+   "titulo": "Identificar e Comunicar as 10 Especialidades Mais Relevantes",
+   "autor": "BNI Academy",
+   "origem": "Curso no BNI Academy",
+   "formato": "Curso",
+   "grupo": "habilidades",
+   "dur": "curso",
+   "min": 0,
+   "tags": [
+    "convidados",
+    "comunicação",
+    "vida no grupo"
+   ],
+   "trilhas": [],
+   "resumo": "Especialidades ajudam os grupos a entender quais tipos de membros são necessários e quais tipos de convidados devem ser convidados. Este curso irá forcar em como identificar quais especialidades são necessárias e como comunicá-las ao grupo.",
+   "tituloNaCapa": false,
+   "capa": "capas/academy/c5051.webp",
+   "capaProporcao": 1.684
+  },
+  {
+   "id": "ac-c5049",
+   "tipo": "academy",
+   "url": "https://www.bniglobalacademy.com/local/intellicart/course/view.php?id=5049",
+   "titulo": "Identificar e Resolver Conflitos",
+   "autor": "BNI Academy",
+   "origem": "Curso no BNI Academy",
+   "formato": "Curso",
+   "grupo": "lideranca",
+   "dur": "curso",
+   "min": 0,
+   "tags": [
+    "1 a 1",
+    "mentalidade",
+    "vida no grupo"
+   ],
+   "trilhas": [],
+   "resumo": "É fácil celebrar o sucesso. A notícia se espalha e as pessoas desfrutam de interações positivas. Para descobrir possíveis conflitos, é preciso ser um bom ouvinte e estar sempre atento ao pulso do grupo. É importante ter uma interação constante com os membros da equipe, 1-a-1s, bem como ficar para trás e observar. Se houver um conflito entre a equipe, é importante resolvê-lo com rapidez e profissionalismo.",
+   "tituloNaCapa": false,
+   "capa": "capas/academy/c5049.webp",
+   "capaProporcao": 1.684
+  },
+  {
+   "id": "ac-c5048",
+   "tipo": "academy",
+   "url": "https://www.bniglobalacademy.com/local/intellicart/course/view.php?id=5048",
+   "titulo": "Como Identificar e Treinar Membros para a Liderança",
+   "autor": "BNI Academy",
+   "origem": "Curso no BNI Academy",
+   "formato": "Curso",
+   "grupo": "lideranca",
+   "dur": "curso",
+   "min": 0,
+   "tags": [
+    "liderança",
+    "vida no grupo"
+   ],
+   "trilhas": [],
+   "resumo": "",
+   "tituloNaCapa": true,
+   "capa": "capas/academy/c5048.webp",
+   "capaProporcao": 1.684
+  },
+  {
+   "id": "ac-c5054",
+   "tipo": "academy",
+   "url": "https://www.bniglobalacademy.com/local/intellicart/course/view.php?id=5054",
+   "titulo": "Engajar Convidados",
+   "autor": "BNI Academy",
+   "origem": "Curso no BNI Academy",
+   "formato": "Curso",
+   "grupo": "habilidades",
+   "dur": "curso",
+   "min": 0,
+   "tags": [
+    "convidados"
+   ],
+   "trilhas": [
+    "visibilidade"
+   ],
+   "resumo": "O engajamento de um convidado que está participando de uma reunião do Grupo BNI® ajudará a fazer com que ele se sinta bem-vindo, aumentará as chances de converter o convidado em membro e ajudará outros membros a gerar referências. Este curso se concentrará em garantir que todos os convidados estejam engajados.",
+   "tituloNaCapa": false,
+   "capa": "capas/academy/c5054.webp",
+   "capaProporcao": 1.684
+  },
+  {
+   "id": "ac-c5052",
+   "tipo": "academy",
+   "url": "https://www.bniglobalacademy.com/local/intellicart/course/view.php?id=5052",
+   "titulo": "Como Responsabilizar os Membros",
+   "autor": "BNI Academy",
+   "origem": "Curso no BNI Academy",
+   "formato": "Curso",
+   "grupo": "lideranca",
+   "dur": "curso",
+   "min": 0,
+   "tags": [
+    "liderança",
+    "mentalidade",
+    "tempo",
+    "vida no grupo"
+   ],
+   "trilhas": [],
+   "resumo": "Como líder, é importante sempre liderar pelo exemplo. A equipe de liderança deve demonstrar os padrões de um Grupo típico do BNI® e ser responsabilizado por estes padrões. Este curso irá providenciar um entendimento de accountability e garantir que os líderes sejam capazes de manter os pares deles responsabilizados em uma maneira positiva e produtiva.",
+   "tituloNaCapa": false,
+   "capa": "capas/academy/c5052.webp",
+   "capaProporcao": 1.684
+  },
+  {
+   "id": "ac-c5055",
+   "tipo": "academy",
+   "url": "https://www.bniglobalacademy.com/local/intellicart/course/view.php?id=5055",
+   "titulo": "Engajar Novos Membros",
+   "autor": "BNI Academy",
+   "origem": "Curso no BNI Academy",
+   "formato": "Curso",
+   "grupo": "habilidades",
+   "dur": "curso",
+   "min": 0,
+   "tags": [
+    "novos membros",
+    "liderança",
+    "mentalidade",
+    "vida no grupo"
+   ],
+   "trilhas": [],
+   "resumo": "Enquanto o Coordenador de Mentoria é o dono do Passaporte para o Sucesso e a orientação inicial de nossos novos membros, é a responsabilidade de todos na Equipe de Liderança fazer com que o novo membro se sinta bem-vindo. Este curso fornece dicas e ferramentas para garantir que você esteja sendo uma influência positiva e de apoio sobre os membros mais novos de sua equipe!",
+   "tituloNaCapa": false,
+   "capa": "capas/academy/c5055.webp",
+   "capaProporcao": 1.684
+  },
+  {
+   "id": "ac-c5057",
+   "tipo": "academy",
+   "url": "https://www.bniglobalacademy.com/local/intellicart/course/view.php?id=5057",
+   "titulo": "Criar um Ambiente Inclusivo",
+   "autor": "BNI Academy",
+   "origem": "Curso no BNI Academy",
+   "formato": "Curso",
+   "grupo": "habilidades",
+   "dur": "curso",
+   "min": 0,
+   "tags": [
+    "referências",
+    "convidados",
+    "vida no grupo"
+   ],
+   "trilhas": [],
+   "resumo": "Este é um grupo profissional de networking com o objetivo de “Ganhar Contribuindo” É importante criar um ambiente no qual todos os membros compartilhem igualmente a riqueza de referências uns com os outros. Queremos atrair novos convidados para se tornarem membros em potencial.",
+   "tituloNaCapa": false,
+   "capa": "capas/academy/c5057.webp",
+   "capaProporcao": 1.684
+  },
+  {
+   "id": "ac-c5056",
+   "tipo": "academy",
+   "url": "https://www.bniglobalacademy.com/local/intellicart/course/view.php?id=5056",
+   "titulo": "Como Encorajar os Membros a Trazer Convidados",
+   "autor": "BNI Academy",
+   "origem": "Curso no BNI Academy",
+   "formato": "Curso",
+   "grupo": "habilidades",
+   "dur": "curso",
+   "min": 0,
+   "tags": [
+    "convidados"
+   ],
+   "trilhas": [
+    "visibilidade"
+   ],
+   "resumo": "Os membros são encorajados a trazer convidados qualificados, cujos negócios irão agregar valor ao Grupo BNI®. Também permite que membros potenciais sejam apresentados ao valor que ser um Membro BNI® pode lhes proporcionar.",
+   "tituloNaCapa": false,
+   "capa": "capas/academy/c5056.webp",
+   "capaProporcao": 1.684
+  },
+  {
+   "id": "ac-c5058",
+   "tipo": "academy",
+   "url": "https://www.bniglobalacademy.com/local/intellicart/course/view.php?id=5058",
+   "titulo": "Como Converter Convidados em Membros",
+   "autor": "BNI Academy",
+   "origem": "Curso no BNI Academy",
+   "formato": "Curso",
+   "grupo": "habilidades",
+   "dur": "curso",
+   "min": 0,
+   "tags": [
+    "convidados"
+   ],
+   "trilhas": [
+    "visibilidade"
+   ],
+   "resumo": "Dar boas-vindas aos Convidados do grupo é uma grande oportunidade para mostrar a eles uma reunião em ação e aprender mais sobre os benefícios incríveis de ser parte do BNI® e que pode trazer a eles profissionalmente. Converter um convidado em um membro da maneira certa é importante para ter um novo membro animado e engajado desde o início.",
+   "tituloNaCapa": false,
+   "capa": "capas/academy/c5058.webp",
+   "capaProporcao": 1.684
+  },
+  {
+   "id": "ac-c5065",
+   "tipo": "academy",
+   "url": "https://www.bniglobalacademy.com/local/intellicart/course/view.php?id=5065",
+   "titulo": "Relatórios do BNI Connect",
+   "autor": "BNI Academy",
+   "origem": "Curso no BNI Academy",
+   "formato": "Curso",
+   "grupo": "comece",
+   "dur": "curso",
+   "min": 0,
+   "tags": [
+    "vida no grupo"
+   ],
+   "trilhas": [],
+   "resumo": "Relatórios que são gerados no BNI Connect® podem providenciar informação relevante para garantir o sucesso dos seus membros e seu grupo. Este curso irá focar em como extrair e usar três relatórios chave no BNI Connect®: O Relatório de Traffic Light do Grupo, Relatório de Traffic Light do Membro e o Relatório de Ausência.",
+   "tituloNaCapa": false,
+   "capa": "capas/academy/c5065.webp",
+   "capaProporcao": 1.684
+  },
+  {
+   "id": "ac-c5060",
+   "tipo": "academy",
+   "url": "https://www.bniglobalacademy.com/local/intellicart/course/view.php?id=5060",
+   "titulo": "Comunicar a Marca",
+   "autor": "BNI Academy",
+   "origem": "Curso no BNI Academy",
+   "formato": "Curso",
+   "grupo": "habilidades",
+   "dur": "curso",
+   "min": 0,
+   "tags": [
+    "vendas",
+    "credibilidade",
+    "comunicação",
+    "novos membros"
+   ],
+   "trilhas": [],
+   "resumo": "Nossa marca representa a promessa que fazemos aos membros e aos clientes e membros em potencial. Preservar a integridade da nossa marca é crucial para o “Mudando a Forma Como o Mundo Faz Negócios”. Isso se inicia com sua liderança e apoio através da sua linguagem e atitude colhedora com os novos membros por todo o caminho pela sinalização e localização usada nas reuniões do seu grupo.",
+   "tituloNaCapa": false,
+   "capa": "capas/academy/c5060.webp",
+   "capaProporcao": 1.684
+  },
+  {
+   "id": "ac-c5084",
+   "tipo": "academy",
+   "url": "https://www.bniglobalacademy.com/local/intellicart/course/view.php?id=5084",
+   "titulo": "Inovações das reuniões um-a-um",
+   "autor": "BNI Academy",
+   "origem": "Curso no BNI Academy",
+   "formato": "Curso",
+   "grupo": "pratica",
+   "dur": "curso",
+   "min": 0,
+   "tags": [
+    "1 a 1"
+   ],
+   "trilhas": [
+    "credibilidade"
+   ],
+   "resumo": "Neste curso, você conhecerá as inovações das reuniões um-a-um. Um formato incrível para realizar reuniões com membros da sua equipe, região, país e do mundo.",
+   "tituloNaCapa": true,
+   "capa": "capas/academy/c5084.webp",
+   "capaProporcao": 1.684
+  },
+  {
+   "id": "ac-c5142",
+   "tipo": "academy",
+   "url": "https://www.bniglobalacademy.com/local/intellicart/course/view.php?id=5142",
+   "titulo": "Webinar Programa Pré-Posse do Novo Membro",
+   "autor": "BNI Academy",
+   "origem": "Curso no BNI Academy",
+   "formato": "Curso",
+   "grupo": "palestras",
+   "dur": "curso",
+   "min": 0,
+   "tags": [
+    "referências",
+    "online",
+    "novos membros"
+   ],
+   "trilhas": [],
+   "resumo": "\"Webinar com orientações das 8 etapas do programa de pré-posse ETAPA 1 - Orientação Final (Anfitriões) ETAPA 2 - Processo de Entrevista (Comitê de Afiliação) ETAPA 3 - Referências Comerciais, Lista 50 Contatos, Contrato e Pgto (Comitê de Afiliação) ETAPA 4 - Ligação de Boas-Vindas (BNI Regional) ETAPA 5 - Workshop de Pré-Posse (BNI Regional, Coord.",
+   "tituloNaCapa": true,
+   "capa": "capas/academy/c5142.webp",
+   "capaProporcao": 1.684
+  },
+  {
+   "id": "ac-c5182",
+   "tipo": "academy",
+   "url": "https://www.bniglobalacademy.com/local/intellicart/course/view.php?id=5182",
+   "titulo": "Deseja Expandir seu Negócio? (Quieres hacer crecer tu negocio?)",
+   "autor": "BNI Academy",
+   "origem": "Curso no BNI Academy",
+   "formato": "Curso",
+   "grupo": "habilidades",
+   "dur": "curso",
+   "min": 0,
+   "tags": [
+    "convidados"
+   ],
+   "trilhas": [],
+   "resumo": "\"Este Webinar é parte do programa 120 dias. Um programa idealizado pelo Diretor Executivo Fábio Torres. Como convidado especial neste webinar, temos a participação do Diretor Nacional do Perú Francisco Punhol O que você irá aprender neste curso: - Introdução sobre o projeto 120 dias - As três fases para construção de relacionamentos na sua equipe BNI - Como encontrar e oferecer um espaço de segurança na equipe BNI\"…",
+   "tituloNaCapa": true,
+   "capa": "capas/academy/c5182.webp",
+   "capaProporcao": 1.684
+  },
+  {
+   "id": "ac-c5189",
+   "tipo": "academy",
+   "url": "https://www.bniglobalacademy.com/local/intellicart/course/view.php?id=5189",
+   "titulo": "Como Organizar um Dia do Convidado Profissional por Núcleos/Clusters",
+   "autor": "BNI Academy",
+   "origem": "Curso no BNI Academy",
+   "formato": "Curso",
+   "grupo": "lideranca",
+   "dur": "curso",
+   "min": 0,
+   "tags": [
+    "convidados"
+   ],
+   "trilhas": [],
+   "resumo": "\"Este Webinar é parte do programa 120 dias. Um programa idealizado pelo Diretor Executivo Fábio Torres. Como convidado especial neste webinar, temos a participação da Especialista em Eventos Bruno Caraça O que você irá aprender neste curso: - Introdução sobre o projeto 120 dias - Quais os objetivos dos eventos - Como usar a estratégia do evento para a meta da sua equipe BNI - Como definir o público-alvo para o…",
+   "tituloNaCapa": true,
+   "capa": "capas/academy/c5189.webp",
+   "capaProporcao": 1.684
+  },
+  {
+   "id": "ac-c5191",
+   "tipo": "academy",
+   "url": "https://www.bniglobalacademy.com/local/intellicart/course/view.php?id=5191",
+   "titulo": "Estratégias Avançadas para Convidar por Núcleos/Clusters",
+   "autor": "BNI Academy",
+   "origem": "Curso no BNI Academy",
+   "formato": "Curso",
+   "grupo": "lideranca",
+   "dur": "curso",
+   "min": 0,
+   "tags": [
+    "Power Team",
+    "convidados"
+   ],
+   "trilhas": [],
+   "resumo": "\"Este Webinar é parte do programa 120 dias. Um programa idealizado pelo Diretor Executivo Fábio Torres. O que você irá aprender neste curso: - O que fazer e não fazer ao convidar - Principais desafios em convidar - Motivos para convidar por núcleos - Lista de Especialidades x Núcleos Clusters - A jornada para o Power Team - Os Números de Dunbar - Diferença entre Convidados e Visitantes - Processo para convidar por…",
+   "tituloNaCapa": true,
+   "capa": "capas/academy/c5191.webp",
+   "capaProporcao": 1.684
+  },
+  {
+   "id": "ac-c5188",
+   "tipo": "academy",
+   "url": "https://www.bniglobalacademy.com/local/intellicart/course/view.php?id=5188",
+   "titulo": "Como Construir um Time dos Sonhos (Dream Team)",
+   "autor": "BNI Academy",
+   "origem": "Curso no BNI Academy",
+   "formato": "Curso",
+   "grupo": "pratica",
+   "dur": "curso",
+   "min": 0,
+   "tags": [
+    "equipe"
+   ],
+   "trilhas": [
+    "rentabilidade"
+   ],
+   "resumo": "\"Este Webinar é parte do programa 120 dias. Um programa idealizado pelo Diretor Executivo Fábio Torres. Como convidado especial neste webinar, temos a participação do Diretor Executivo Rodrigo de Bernardi O que você irá aprender neste curso: - Introdução sobre o projeto 120 dias - Como construir um Dream Team (um time dos sonhos)\" Duração: 01:29:15",
+   "tituloNaCapa": true,
+   "capa": "capas/academy/c5188.webp",
+   "capaProporcao": 1.684
+  },
+  {
+   "id": "ac-c5059",
+   "tipo": "academy",
+   "url": "https://www.bniglobalacademy.com/local/intellicart/course/view.php?id=5059",
+   "titulo": "Comunicar o Valor do BNI",
+   "autor": "BNI Academy",
+   "origem": "Curso no BNI Academy",
+   "formato": "Curso",
+   "grupo": "habilidades",
+   "dur": "curso",
+   "min": 0,
+   "tags": [
+    "valor do BNI"
+   ],
+   "trilhas": [
+    "visibilidade"
+   ],
+   "resumo": "Se você não lembrar continuamente os membros dos benefícios que recebem do BNI, não terá membros comprometidos, inspirados e motivados em seu grupo. Este curso apresentará maneiras de comunicar o valor do BNI a todos os membros.",
+   "tituloNaCapa": false,
+   "capa": "capas/academy/c5059.webp",
+   "capaProporcao": 1.684
+  },
+  {
+   "id": "ac-c5192",
+   "tipo": "academy",
+   "url": "https://www.bniglobalacademy.com/local/intellicart/course/view.php?id=5192",
+   "titulo": "Processo de Seleção e Entrevista BNI",
+   "autor": "BNI Academy",
+   "origem": "Curso no BNI Academy",
+   "formato": "Curso",
+   "grupo": "lideranca",
+   "dur": "curso",
+   "min": 0,
+   "tags": [
+    "referências",
+    "convidados",
+    "vida no grupo"
+   ],
+   "trilhas": [],
+   "resumo": "\"Este Webinar é parte do programa 120 dias. Um programa idealizado pelo Diretor Executivo Fábio Torres. Como convidada especial neste webinar, temos a participação da Diretora Executiva Adriana Pina O que você irá aprender neste curso: - Introdução sobre o projeto 120 dias - Conceito Who's in your room - Processo de entrevista BNI (roteiro de entrevista) - A importância da lista de 40 nomes - Como conseguir validar…",
+   "tituloNaCapa": true,
+   "capa": "capas/academy/c5192.webp",
+   "capaProporcao": 1.684
+  },
+  {
+   "id": "ac-c5193",
+   "tipo": "academy",
+   "url": "https://www.bniglobalacademy.com/local/intellicart/course/view.php?id=5193",
+   "titulo": "Estratégias para o crescimento de Núcleos/Clusters",
+   "autor": "BNI Academy",
+   "origem": "Curso no BNI Academy",
+   "formato": "Curso",
+   "grupo": "lideranca",
+   "dur": "curso",
+   "min": 0,
+   "tags": [
+    "networking"
+   ],
+   "trilhas": [],
+   "resumo": "\"Este Webinar é parte do programa 120 dias. Um programa idealizado pelo Diretor Executivo Fábio Torres. O que você irá aprender neste curso: - Introdução sobre o projeto 120 dias - Desafios para crescer estratégicamente uma equipe BNI - Um novo mindset de crescimento de equipes - O conceito de núcleos e clusters - Solução para o crescimento estratégico de equipes BNI - Ações e estratégias para crescer a sua equipe\"…",
+   "tituloNaCapa": true,
+   "capa": "capas/academy/c5193.webp",
+   "capaProporcao": 1.684
+  },
+  {
+   "id": "ac-c5194",
+   "tipo": "academy",
+   "url": "https://www.bniglobalacademy.com/local/intellicart/course/view.php?id=5194",
+   "titulo": "Estratégias para Construção de Núcleos/Cluster na sua Equipe BNI",
+   "autor": "BNI Academy",
+   "origem": "Curso no BNI Academy",
+   "formato": "Curso",
+   "grupo": "lideranca",
+   "dur": "curso",
+   "min": 0,
+   "tags": [
+    "vendas",
+    "convidados",
+    "vida no grupo"
+   ],
+   "trilhas": [],
+   "resumo": "\"Este Webinar é parte do programa 120 dias. Um programa idealizado pelo Diretor Executivo Fábio Torres. Como convidada especial neste webinar, temos a participação da Diretora Executiva Camila Nasser.",
+   "tituloNaCapa": true,
+   "capa": "capas/academy/c5194.webp",
+   "capaProporcao": 1.684
+  },
+  {
+   "id": "ac-c5291",
+   "tipo": "academy",
+   "url": "https://www.bniglobalacademy.com/local/intellicart/course/view.php?id=5291",
+   "titulo": "Processo Gerenciamento de Conflito",
+   "autor": "BNI Academy",
+   "origem": "Curso no BNI Academy",
+   "formato": "Curso",
+   "grupo": "lideranca",
+   "dur": "curso",
+   "min": 0,
+   "tags": [
+    "credibilidade",
+    "mentalidade",
+    "tempo"
+   ],
+   "trilhas": [],
+   "resumo": "\"O que você irá aprender neste curso: - Porque os conflitos acontecem? - Como começam os conflitos? - Impactos em não tratar os conflitos? - Exemplos comuns de conflitos numa equipe? - Resolução Destrutiva e Produtiva - A importância do código de ética, políticas e diretrizes - A quem recorrer em casos de conflitos - Quando e Como agir em casos de conflitos - O poder do não positivo - Dicas \" Duration: 00:27:06",
+   "tituloNaCapa": true,
+   "capa": "capas/academy/c5291.webp",
+   "capaProporcao": 1.684
+  },
+  {
+   "id": "ac-c5290",
+   "tipo": "academy",
+   "url": "https://www.bniglobalacademy.com/local/intellicart/course/view.php?id=5290",
+   "titulo": "Programa de Passaporte para o Sucesso",
+   "autor": "BNI Academy",
+   "origem": "Curso no BNI Academy",
+   "formato": "Curso",
+   "grupo": "comece",
+   "dur": "curso",
+   "min": 0,
+   "tags": [
+    "follow-up"
+   ],
+   "trilhas": [],
+   "resumo": "\"O que você irá aprender neste curso: - Para que serve o Programa de Passaporte para o Sucesso - Compreendendo o valor da permanência de um membro, em especial no primeiro ano - O papel de embaixador, coord.",
+   "tituloNaCapa": true,
+   "capa": "capas/academy/c5290.webp",
+   "capaProporcao": 1.684
+  },
+  {
+   "id": "ac-c5281",
+   "tipo": "academy",
+   "url": "https://www.bniglobalacademy.com/local/intellicart/course/view.php?id=5281",
+   "titulo": "Treinamento avançado de entrevistas BNI, baseado no conceito Who's in your room",
+   "autor": "BNI Academy",
+   "origem": "Curso no BNI Academy",
+   "formato": "Curso",
+   "grupo": "pratica",
+   "dur": "curso",
+   "min": 0,
+   "tags": [
+    "entrevista",
+    "liderança"
+   ],
+   "trilhas": [],
+   "resumo": "Como desenvolver nosso vocabulário é nossos meios de avaliar as capacidades dos candidatos. Duração: 01:59:51",
+   "tituloNaCapa": true,
+   "capa": "capas/academy/c5281.webp",
+   "capaProporcao": 1.684
+  },
+  {
+   "id": "ac-c5293",
+   "tipo": "academy",
+   "url": "https://www.bniglobalacademy.com/local/intellicart/course/view.php?id=5293",
+   "titulo": "Processo de Recepção de Convidados",
+   "autor": "BNI Academy",
+   "origem": "Curso no BNI Academy",
+   "formato": "Curso",
+   "grupo": "lideranca",
+   "dur": "curso",
+   "min": 0,
+   "tags": [
+    "convidados"
+   ],
+   "trilhas": [],
+   "resumo": "\"O que você irá aprender neste curso: - Desafios em receber e acompanhar convidados - A importância do convidado para a equipe - Impactos em ter convidados na sua equipe - Diferença de convidado x visitante x substituto - Participar de uma reunião BNI é uma experiência - Como proporcionar uma boa experiência aos convidados e visitantes\" Duration:00:21:27",
+   "tituloNaCapa": true,
+   "capa": "capas/academy/c5293.webp",
+   "capaProporcao": 1.684
+  },
+  {
+   "id": "ac-c5292",
+   "tipo": "academy",
+   "url": "https://www.bniglobalacademy.com/local/intellicart/course/view.php?id=5292",
+   "titulo": "Processo de Entrevista de Intenção de Saída",
+   "autor": "BNI Academy",
+   "origem": "Curso no BNI Academy",
+   "formato": "Curso",
+   "grupo": "lideranca",
+   "dur": "curso",
+   "min": 0,
+   "tags": [
+    "networking"
+   ],
+   "trilhas": [],
+   "resumo": "\"O que você irá aprender neste curso: - Porque realizar a entrevista de inteção de saída - O processo de entrevista de intenção de saída - Quem realiza a entrevista de intenção de saída - O roteiro de entrevista de intenção de saída - Resultados a serem obtidos por meio da entrevista de intenção de saída \" Duration: 00:17:18",
+   "tituloNaCapa": true,
+   "capa": "capas/academy/c5292.webp",
+   "capaProporcao": 1.684
+  },
+  {
+   "id": "ac-c5294",
+   "tipo": "academy",
+   "url": "https://www.bniglobalacademy.com/local/intellicart/course/view.php?id=5294",
+   "titulo": "Processo de Mentoria",
+   "autor": "BNI Academy",
+   "origem": "Curso no BNI Academy",
+   "formato": "Curso",
+   "grupo": "lideranca",
+   "dur": "curso",
+   "min": 0,
+   "tags": [
+    "networking"
+   ],
+   "trilhas": [],
+   "resumo": "\"O que você irá aprender neste curso: - Definição de mentoria - O impacto da mentoria no desenvolvimento dos negócios - Sumário de papéis - Coord.",
+   "tituloNaCapa": true,
+   "capa": "capas/academy/c5294.webp",
+   "capaProporcao": 1.684
+  },
+  {
+   "id": "ac-c5297",
+   "tipo": "academy",
+   "url": "https://www.bniglobalacademy.com/local/intellicart/course/view.php?id=5297",
+   "titulo": "Não cresça seu grupo, cresça o seu Power Team",
+   "autor": "BNI Academy",
+   "origem": "Curso no BNI Academy",
+   "formato": "Curso",
+   "grupo": "pratica",
+   "dur": "curso",
+   "min": 0,
+   "tags": [
+    "Power Team"
+   ],
+   "trilhas": [
+    "rentabilidade"
+   ],
+   "resumo": "\"O que você irá aprender neste curso: - O que é um Power Team - Porque desenvolver um Power Team - Concorrência de mercado x Parceria estratégica BNI - Tipos de Power Team - Construção de esferas de contato - Porque forma Power Team - Cuidado com os cowboys de especialidade - Power Team efetivo e Equipe efetiva - Como formar, executar e gerenciar um Power Team - Perguntas frequentes \" Duration: 00:14:06",
+   "tituloNaCapa": true,
+   "capa": "capas/academy/c5297.webp",
+   "capaProporcao": 1.684
+  },
+  {
+   "id": "ac-c5296",
+   "tipo": "academy",
+   "url": "https://www.bniglobalacademy.com/local/intellicart/course/view.php?id=5296",
+   "titulo": "O básico que funciona",
+   "autor": "BNI Academy",
+   "origem": "Curso no BNI Academy",
+   "formato": "Curso",
+   "grupo": "pratica",
+   "dur": "curso",
+   "min": 0,
+   "tags": [
+    "fundamentos"
+   ],
+   "trilhas": [
+    "iniciante"
+   ],
+   "resumo": "\"O que você irá aprender neste curso: - Porque os membros saem de uma equipe - Porque o BNI funciona - Cultura BNI - Método BNI - Checando o básico - Compromissos mínimos \" Duration: 00:15:19",
+   "tituloNaCapa": true,
+   "capa": "capas/academy/c5296.webp",
+   "capaProporcao": 1.684
+  },
+  {
+   "id": "ac-c5299",
+   "tipo": "academy",
+   "url": "https://www.bniglobalacademy.com/local/intellicart/course/view.php?id=5299",
+   "titulo": "Descobrindo o BNI University",
+   "autor": "BNI Academy",
+   "origem": "Curso no BNI Academy",
+   "formato": "Curso",
+   "grupo": "comece",
+   "dur": "curso",
+   "min": 0,
+   "tags": [
+    "networking"
+   ],
+   "trilhas": [],
+   "resumo": "\"O que você irá aprender neste curso: - O que é o BNI University - Benefícios do BNI University - Introdução sobre a metodologia de aprendizagem adulta - A importância da aprendizagem contínua - Navegando no BNI University - Perguntas frequentes\" Duration: 00:20:35",
+   "tituloNaCapa": true,
+   "capa": "capas/academy/c5299.webp",
+   "capaProporcao": 1.684
+  },
+  {
+   "id": "ac-c5301",
+   "tipo": "academy",
+   "url": "https://www.bniglobalacademy.com/local/intellicart/course/view.php?id=5301",
+   "titulo": "Como fazer da minha equipe a principal fonte de referências para o meu negócio",
+   "autor": "BNI Academy",
+   "origem": "Curso no BNI Academy",
+   "formato": "Curso",
+   "grupo": "pratica",
+   "dur": "curso",
+   "min": 0,
+   "tags": [
+    "referências"
+   ],
+   "trilhas": [
+    "rentabilidade"
+   ],
+   "resumo": "\"O que você irá aprender neste curso: - Atitude imediatista x CCC - Quais soluções que o BNI oferece como estratégia para o desenvolvimento do seu negócio - Princípio dos 3 P's - Presença, Pontualidade e Participação - Estratégia 10x20x30 - Funil do pedido de referências e a importância de ser específico - Para que serve e qual a importância das apresentações semanais e principais - Para que serve e qual a…",
+   "tituloNaCapa": true,
+   "capa": "capas/academy/c5301.webp",
+   "capaProporcao": 1.684
+  },
+  {
+   "id": "ac-c5295",
+   "tipo": "academy",
+   "url": "https://www.bniglobalacademy.com/local/intellicart/course/view.php?id=5295",
+   "titulo": "Processo de Afiliação",
+   "autor": "BNI Academy",
+   "origem": "Curso no BNI Academy",
+   "formato": "Curso",
+   "grupo": "lideranca",
+   "dur": "curso",
+   "min": 0,
+   "tags": [
+    "vida no grupo"
+   ],
+   "trilhas": [],
+   "resumo": "\"O que você irá aprender neste curso: - Porque ter um processo estruturado de afiliação na sua equipe BNI? - Qual o custo de um processo de afiliação desestruturado e não gerenciado? - Processo de seleção de novos candidatos - Processo de avaliação de membros existentes - Transferência de equipe - Transferência de titularidade - Mudança de especialidade - Benefícios em participar da equipe de análise de candidaturas…",
+   "tituloNaCapa": true,
+   "capa": "capas/academy/c5295.webp",
+   "capaProporcao": 1.684
+  },
+  {
+   "id": "ac-c5300",
+   "tipo": "academy",
+   "url": "https://www.bniglobalacademy.com/local/intellicart/course/view.php?id=5300",
+   "titulo": "Descobrindo o BNI Connect e Mobile",
+   "autor": "BNI Academy",
+   "origem": "Curso no BNI Academy",
+   "formato": "Curso",
+   "grupo": "comece",
+   "dur": "curso",
+   "min": 0,
+   "tags": [
+    "vendas",
+    "vida no grupo",
+    "propósito"
+   ],
+   "trilhas": [],
+   "resumo": "\"O que você irá aprender neste curso: - Visão geral do BNI Connect e Mobile - Como encontrar membros no BNI Connect - Como atualizar seu perfil no BNI Connect - Desenvolvendo o processo IVCR por meio do BNI Connect e Mobile - Perguntas frequentes\" Duration: 00:22:07",
+   "tituloNaCapa": true,
+   "capa": "capas/academy/c5300.webp",
+   "capaProporcao": 1.684
+  },
+  {
+   "id": "ac-c5302",
+   "tipo": "academy",
+   "url": "https://www.bniglobalacademy.com/local/intellicart/course/view.php?id=5302",
+   "titulo": "Como aumentar em 5x a quantidade de referências por meio dos convidados",
+   "autor": "BNI Academy",
+   "origem": "Curso no BNI Academy",
+   "formato": "Curso",
+   "grupo": "pratica",
+   "dur": "curso",
+   "min": 0,
+   "tags": [
+    "convidados",
+    "referências"
+   ],
+   "trilhas": [
+    "visibilidade",
+    "rentabilidade"
+   ],
+   "resumo": "\"O que você irá aprender neste curso: - O que fazer e o que não fazer ao convidar pessoas para sua reunião - Motivos para convidar pessoas para sua reunião - Impactos no seu negócio em convidar pessoas para sua reunião - Porque algumas reuniões tem um baixo número de convidados - Como convidar? - O que você precisa fazer para ter 5x ou mais referências por meio da rede de convidados\" Duration: 00:23:09",
+   "tituloNaCapa": true,
+   "capa": "capas/academy/c5302.webp",
+   "capaProporcao": 1.684
+  },
+  {
+   "id": "ac-c5626",
+   "tipo": "academy",
+   "url": "https://www.bniglobalacademy.com/local/intellicart/course/view.php?id=5626",
+   "titulo": "CD BNI",
+   "autor": "BNI Academy",
+   "origem": "Curso no BNI Academy",
+   "formato": "Curso",
+   "grupo": "lideranca",
+   "dur": "curso",
+   "min": 0,
+   "tags": [
+    "networking"
+   ],
+   "trilhas": [],
+   "resumo": "Aprenda mais sobre o BNI com esse audiobook desenvolvido por Ivan Misner, PhD. e Fundador do BNI.",
+   "tituloNaCapa": false,
+   "capa": "capas/academy/c5626.webp",
+   "capaProporcao": 1.684
+  },
+  {
+   "id": "ac-c5641",
+   "tipo": "academy",
+   "url": "https://www.bniglobalacademy.com/local/intellicart/course/view.php?id=5641",
+   "titulo": "WEBINAR - Processo de Recepção de Convidados e Visitantes",
+   "autor": "BNI Academy",
+   "origem": "Curso no BNI Academy",
+   "formato": "Curso",
+   "grupo": "palestras",
+   "dur": "curso",
+   "min": 0,
+   "tags": [
+    "convidados",
+    "vida no grupo"
+   ],
+   "trilhas": [],
+   "resumo": "\"O que você irá aprender nesse webinário - Porque ter um processo estruturado e funcional de recepção de membros e convidados; - Como desenvolver um processo eficiente de convidados e aumentar a percepção das empresas da equipe para os membros e convidados. - Resultados que você e a equipe obterão por meio de um processo eficiente de recepção de membros e convidados. Facilitador: Fábio Torres\"",
+   "tituloNaCapa": true,
+   "capa": "capas/academy/c5641.webp",
+   "capaProporcao": 1.684
+  },
+  {
+   "id": "ac-c6005",
+   "tipo": "academy",
+   "url": "https://www.bniglobalacademy.com/local/intellicart/course/view.php?id=6005",
+   "titulo": "PSM Reuniões 1 a 1 Eficazes",
+   "autor": "BNI Academy",
+   "origem": "Curso no BNI Academy",
+   "formato": "Curso",
+   "grupo": "comece",
+   "dur": "curso",
+   "min": 0,
+   "tags": [
+    "PSM",
+    "1 a 1"
+   ],
+   "trilhas": [
+    "credibilidade"
+   ],
+   "resumo": "Este curso dará aos membros uma compreensão de como usar a biografia do membro e o perfil GAINS para garantir que suas reuniões 1-a-1 sejam eficazes. O treinamento se empenha para influenciar ou inspirar novos comportamentos nos membros que o concluem; garantindo assim o seu sucesso no BNI.",
+   "tituloNaCapa": false,
+   "capa": "capas/academy/c6005.webp",
+   "capaProporcao": 1.684
+  },
+  {
+   "id": "ac-c5624",
+   "tipo": "academy",
+   "url": "https://www.bniglobalacademy.com/local/intellicart/course/view.php?id=5624",
+   "titulo": "Gestão de DCs e Embaixadores",
+   "autor": "BNI Academy",
+   "origem": "Curso no BNI Academy",
+   "formato": "Curso",
+   "grupo": "lideranca",
+   "dur": "curso",
+   "min": 0,
+   "tags": [
+    "networking"
+   ],
+   "trilhas": [],
+   "resumo": "",
+   "tituloNaCapa": true,
+   "capa": "capas/academy/c5624.webp",
+   "capaProporcao": 1.684
+  },
+  {
+   "id": "ac-c6004",
+   "tipo": "academy",
+   "url": "https://www.bniglobalacademy.com/local/intellicart/course/view.php?id=6004",
+   "titulo": "PSM Reuniões 1 a 1",
+   "autor": "BNI Academy",
+   "origem": "Curso no BNI Academy",
+   "formato": "Curso",
+   "grupo": "comece",
+   "dur": "curso",
+   "min": 0,
+   "tags": [
+    "PSM",
+    "1 a 1"
+   ],
+   "trilhas": [
+    "iniciante",
+    "credibilidade"
+   ],
+   "resumo": "Este curso dará aos membros uma compreensão de por que fazer 1-a-1 é fundamental para o sucesso. O treinamento se empenha para influenciar ou inspirar novos comportamentos nos membros que o concluem; garantindo assim o seu sucesso no BNI.",
+   "tituloNaCapa": false,
+   "capa": "capas/academy/c6004.webp",
+   "capaProporcao": 1.684
+  },
+  {
+   "id": "ac-c6007",
+   "tipo": "academy",
+   "url": "https://www.bniglobalacademy.com/local/intellicart/course/view.php?id=6007",
+   "titulo": "PSM Habilidades de Comunicação Verbal",
+   "autor": "BNI Academy",
+   "origem": "Curso no BNI Academy",
+   "formato": "Curso",
+   "grupo": "comece",
+   "dur": "curso",
+   "min": 0,
+   "tags": [
+    "PSM",
+    "comunicação"
+   ],
+   "trilhas": [
+    "visibilidade"
+   ],
+   "resumo": "Este curso preparará os membros para apresentarem com sucesso suas apresentações semanais e principal de uma maneira organizada, calma e produtiva, tornando a experiência agradável para eles e seu público. O treinamento se empenha para influenciar ou inspirar novos comportamentos nos membros que o concluem; garantindo assim o seu sucesso no BNI.",
+   "tituloNaCapa": false,
+   "capa": "capas/academy/c6007.webp",
+   "capaProporcao": 1.684
+  },
+  {
+   "id": "ac-c6006",
+   "tipo": "academy",
+   "url": "https://www.bniglobalacademy.com/local/intellicart/course/view.php?id=6006",
+   "titulo": "PSM Escuta Ativa",
+   "autor": "BNI Academy",
+   "origem": "Curso no BNI Academy",
+   "formato": "Curso",
+   "grupo": "comece",
+   "dur": "curso",
+   "min": 0,
+   "tags": [
+    "PSM",
+    "escuta"
+   ],
+   "trilhas": [
+    "credibilidade"
+   ],
+   "resumo": "Este curso preparará os alunos para se engajarem totalmente nas reuniões, ouvindo ativamente, especialmente quando os outros membros fizerem suas apresentações semanais e principal. O treinamento se empenha para influenciar ou inspirar novos comportamentos nos membros que o concluem; garantindo assim o seu sucesso no BNI.",
+   "tituloNaCapa": false,
+   "capa": "capas/academy/c6006.webp",
+   "capaProporcao": 1.684
+  },
+  {
+   "id": "ac-c6009",
+   "tipo": "academy",
+   "url": "https://www.bniglobalacademy.com/local/intellicart/course/view.php?id=6009",
+   "titulo": "PSM Visão Geral da Participação",
+   "autor": "BNI Academy",
+   "origem": "Curso no BNI Academy",
+   "formato": "Curso",
+   "grupo": "comece",
+   "dur": "curso",
+   "min": 0,
+   "tags": [
+    "PSM",
+    "participação"
+   ],
+   "trilhas": [
+    "iniciante"
+   ],
+   "resumo": "Este curso dará aos membros uma compreensão de por que ser um participante ativo no BNI é a chave para o seu sucesso. O treinamento se empenha para influenciar ou inspirar novos comportamentos nos membros que o concluem; garantindo assim o seu sucesso no BNI. Ao final deste curso, os membros serão capazes de: (1) Descrever como aprender mais para ganhar mais; (2) Descrever as funções da equipe de liderança.",
+   "tituloNaCapa": false,
+   "capa": "capas/academy/c6009.webp",
+   "capaProporcao": 1.684
+  },
+  {
+   "id": "ac-c6010",
+   "tipo": "academy",
+   "url": "https://www.bniglobalacademy.com/local/intellicart/course/view.php?id=6010",
+   "titulo": "PSM O Papel do Anfitrião de Convidados",
+   "autor": "BNI Academy",
+   "origem": "Curso no BNI Academy",
+   "formato": "Curso",
+   "grupo": "comece",
+   "dur": "curso",
+   "min": 0,
+   "tags": [
+    "PSM",
+    "convidados"
+   ],
+   "trilhas": [],
+   "resumo": "Este curso dará aos membros uma compreensão do papel de Anfitrião de Convidados e como desempenhar as funções de um. O treinamento se empenha para influenciar ou inspirar novos comportamentos nos membros que o concluem; garantindo assim o seu sucesso no BNI.",
+   "tituloNaCapa": false,
+   "capa": "capas/academy/c6010.webp",
+   "capaProporcao": 1.684
+  },
+  {
+   "id": "ac-c6008",
+   "tipo": "academy",
+   "url": "https://www.bniglobalacademy.com/local/intellicart/course/view.php?id=6008",
+   "titulo": "PSM Testemunhos",
+   "autor": "BNI Academy",
+   "origem": "Curso no BNI Academy",
+   "formato": "Curso",
+   "grupo": "comece",
+   "dur": "curso",
+   "min": 0,
+   "tags": [
+    "PSM",
+    "testemunho"
+   ],
+   "trilhas": [
+    "credibilidade"
+   ],
+   "resumo": "Este curso dará aos membros uma compreensão de como os testemunhos podem ser usados para construir sua credibilidade. O treinamento se empenha para influenciar ou inspirar novos comportamentos nos membros que o concluem; garantindo assim o seu sucesso no BNI.",
+   "tituloNaCapa": false,
+   "capa": "capas/academy/c6008.webp",
+   "capaProporcao": 1.684
+  },
+  {
+   "id": "ac-c6011",
+   "tipo": "academy",
+   "url": "https://www.bniglobalacademy.com/local/intellicart/course/view.php?id=6011",
+   "titulo": "PSM Resolução de Conflitos",
+   "autor": "BNI Academy",
+   "origem": "Curso no BNI Academy",
+   "formato": "Curso",
+   "grupo": "comece",
+   "dur": "curso",
+   "min": 0,
+   "tags": [
+    "PSM",
+    "conflitos"
+   ],
+   "trilhas": [],
+   "resumo": "O conflito faz parte da vida e é inevitável sempre que as pessoas trabalham juntas. Muitas vezes, a reação natural é ver todos os conflitos como ruins, mas isso simplesmente não é verdade! Neste curso de eLearning, identificaremos o que realmente é o conflito e os cenários comuns que os membros podem vivenciar.",
+   "tituloNaCapa": false,
+   "capa": "capas/academy/c6011.webp",
+   "capaProporcao": 1.684
+  },
+  {
+   "id": "ac-c6013",
+   "tipo": "academy",
+   "url": "https://www.bniglobalacademy.com/local/intellicart/course/view.php?id=6013",
+   "titulo": "PSM Networking em Reuniões",
+   "autor": "BNI Academy",
+   "origem": "Curso no BNI Academy",
+   "formato": "Curso",
+   "grupo": "comece",
+   "dur": "curso",
+   "min": 0,
+   "tags": [
+    "PSM",
+    "networking aberto"
+   ],
+   "trilhas": [
+    "visibilidade"
+   ],
+   "resumo": "Este curso dará aos membros uma compreensão da importância e como fazer networking nas reuniões do BNI, bem como em eventos externos. O treinamento se empenha para influenciar ou inspirar novos comportamentos nos membros que o concluem; garantindo assim o seu sucesso no BNI.",
+   "tituloNaCapa": false,
+   "capa": "capas/academy/c6013.webp",
+   "capaProporcao": 1.684
+  },
+  {
+   "id": "ac-c6012",
+   "tipo": "academy",
+   "url": "https://www.bniglobalacademy.com/local/intellicart/course/view.php?id=6012",
+   "titulo": "PSM Visibilidade",
+   "autor": "BNI Academy",
+   "origem": "Curso no BNI Academy",
+   "formato": "Curso",
+   "grupo": "comece",
+   "dur": "curso",
+   "min": 0,
+   "tags": [
+    "PSM",
+    "visibilidade"
+   ],
+   "trilhas": [
+    "visibilidade"
+   ],
+   "resumo": "Este curso preparará os membros para compreender a importância da visibilidade e aprender os meandros da política de assiduidade. O treinamento se empenha para influenciar ou inspirar novos comportamentos nos membros que o concluem; garantindo assim o seu sucesso no BNI.",
+   "tituloNaCapa": false,
+   "capa": "capas/academy/c6012.webp",
+   "capaProporcao": 1.684
   }
  ],
  "trilhas": {
@@ -16207,9 +19410,11 @@
    "frase": "Para quem está começando a jornada no BNI ou quer relembrar o básico.",
    "desc": "O caminho de quem acabou de chegar: como a reunião funciona, o que é o Givers Gain, como fazer a apresentação semanal e o primeiro 1 a 1. Também serve para quem já é membro e quer voltar ao básico.",
    "passos": [
+    "ac-p67",
     "p971",
     "a-semanal",
     "p820",
+    "ac-c119",
     "a-vcr",
     "p907",
     "p751",
@@ -16228,11 +19433,13 @@
    "passos": [
     "p858",
     "p760",
+    "ac-c6012",
     "p917",
     "a-showtell",
     "p765",
     "c-especifico",
     "p829",
+    "ac-c1670",
     "p830",
     "a-linkedin",
     "c-4ps"
@@ -16247,9 +19454,12 @@
    "passos": [
     "c-vcr",
     "p787",
+    "ac-c144",
     "p978",
     "a-comportamentos",
+    "ac-c6005",
     "p800",
+    "ac-c6008",
     "a-followup",
     "p959",
     "p823",
@@ -16264,10 +19474,12 @@
    "desc": "O R do processo VCR. Quando o grupo já conhece e confia em você, é hora de direcionar: cliente ideal, Power Team, referências melhores e negócios fechados.",
    "passos": [
     "p764",
+    "ac-c114",
     "p888",
     "a-ensinar",
     "p834",
     "c-mercado",
+    "ac-c473",
     "p698",
     "c-receita",
     "a-naoefechado",
