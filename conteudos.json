@@ -19973,7 +19973,8 @@
      "t": "Menos de 6 meses",
      "s": {
       "iniciante": 3
-     }
+     },
+     "forca": "iniciante"
     },
     {
      "t": "De 6 meses a 2 anos",
@@ -20123,52 +20124,8 @@
    ]
   },
   {
-   "id": "gosta",
-   "p": "Você está gostando do BNI?",
-   "o": [
-    {
-     "t": "Estou adorando",
-     "s": {}
-    },
-    {
-     "t": "Estou gostando",
-     "s": {}
-    },
-    {
-     "t": "Mais ou menos",
-     "s": {}
-    },
-    {
-     "t": "Não estou gostando",
-     "s": {}
-    }
-   ]
-  },
-  {
-   "id": "metodologia",
-   "p": "Como você está com a metodologia do BNI?",
-   "o": [
-    {
-     "t": "Muito satisfeito",
-     "s": {}
-    },
-    {
-     "t": "Satisfeito",
-     "s": {}
-    },
-    {
-     "t": "Pouco satisfeito",
-     "s": {}
-    },
-    {
-     "t": "Insatisfeito",
-     "s": {}
-    }
-   ]
-  },
-  {
-   "id": "financeiro",
-   "p": "E com o retorno financeiro que o BNI traz para o seu negócio?",
+   "id": "satisfacao",
+   "p": "Como está a sua satisfação com o BNI hoje (o grupo, a metodologia e o retorno para o seu negócio)?",
    "o": [
     {
      "t": "Muito satisfeito",
